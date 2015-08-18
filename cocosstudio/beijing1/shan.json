@@ -1,0 +1,441 @@
+{
+  "ID": "2808c7d1-04bd-4902-be69-4a27d9318838",
+  "Version": "2.3.0.0",
+  "Name": "shan",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 4876,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shan04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 59.686,
+              "Y": 141.1583
+            },
+            "Scale": {
+              "ScaleX": 0.7101,
+              "ScaleY": 0.8181
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4088,
+              "Y": 0.9538
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 22.686,
+            "RightMargin": 49.314,
+            "TopMargin": -48.6583,
+            "BottomMargin": 85.6583,
+            "Tag": 4880,
+            "ActionTag": 183002877,
+            "Size": {
+              "X": 74.0,
+              "Y": 111.0
+            },
+            "Name": "shan04_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shan01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 29.3997,
+              "Y": 114.0257
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.9211
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2014,
+              "Y": 0.7704
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 4.3997,
+            "RightMargin": 91.6003,
+            "TopMargin": -6.0257,
+            "BottomMargin": 74.0257,
+            "Tag": 4877,
+            "ActionTag": -2026066576,
+            "Size": {
+              "X": 50.0,
+              "Y": 80.0
+            },
+            "Name": "shan01_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shan05.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 106.9099,
+              "Y": 120.0947
+            },
+            "Scale": {
+              "ScaleX": 0.7645,
+              "ScaleY": 0.8977
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7323,
+              "Y": 0.8115
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 70.9099,
+            "RightMargin": 3.0901,
+            "TopMargin": -30.5947,
+            "BottomMargin": 61.5947,
+            "Tag": 4881,
+            "ActionTag": -1537436018,
+            "Size": {
+              "X": 72.0,
+              "Y": 117.0
+            },
+            "Name": "shan05_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shan02.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.8418,
+              "ScaleY": 0.508
+            },
+            "Position": {
+              "X": 102.7684,
+              "Y": 106.9862
+            },
+            "Scale": {
+              "ScaleX": 0.8338,
+              "ScaleY": 0.8627
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7039,
+              "Y": 0.7229
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 42.1606,
+            "RightMargin": 31.8394,
+            "TopMargin": -16.554,
+            "BottomMargin": 47.554,
+            "Tag": 4882,
+            "ActionTag": 1239684369,
+            "Size": {
+              "X": 72.0,
+              "Y": 117.0
+            },
+            "Name": "shan02_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shan02.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 50.2564,
+              "Y": 87.6086
+            },
+            "Scale": {
+              "ScaleX": 0.9299,
+              "ScaleY": 0.782
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3442,
+              "Y": 0.5919
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 14.2564,
+            "RightMargin": 59.7436,
+            "TopMargin": 1.8914,
+            "BottomMargin": 29.1086,
+            "Tag": 4878,
+            "ActionTag": 1567317516,
+            "Size": {
+              "X": 72.0,
+              "Y": 117.0
+            },
+            "Name": "shan02_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shan03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 119.3509,
+              "Y": 89.0006
+            },
+            "Scale": {
+              "ScaleX": 0.9443,
+              "ScaleY": 0.9245
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8175,
+              "Y": 0.6014
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 85.3509,
+            "RightMargin": -7.3509,
+            "TopMargin": 0.4994,
+            "BottomMargin": 30.5006,
+            "Tag": 4879,
+            "ActionTag": 504651840,
+            "Size": {
+              "X": 68.0,
+              "Y": 117.0
+            },
+            "Name": "shan03_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shan03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 6.1182,
+              "Y": 92.2283
+            },
+            "Scale": {
+              "ScaleX": 0.3505,
+              "ScaleY": 0.3744
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0419,
+              "Y": 0.6232
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -27.8818,
+            "RightMargin": 105.8818,
+            "TopMargin": -2.7283,
+            "BottomMargin": 33.7283,
+            "Tag": 4885,
+            "ActionTag": 713609024,
+            "Size": {
+              "X": 68.0,
+              "Y": 117.0
+            },
+            "Name": "shan03_9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shan05.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 18.7677,
+              "Y": 71.2972
+            },
+            "Scale": {
+              "ScaleX": 0.667,
+              "ScaleY": 0.7088
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1285,
+              "Y": 0.4817
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -17.2323,
+            "RightMargin": 91.2323,
+            "TopMargin": 18.2028,
+            "BottomMargin": 12.7972,
+            "Tag": 4883,
+            "ActionTag": 549246429,
+            "Size": {
+              "X": 72.0,
+              "Y": 117.0
+            },
+            "Name": "shan05_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shan01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 88.002,
+              "Y": 62.873
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6028,
+              "Y": 0.4248
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 63.002,
+            "RightMargin": 32.998,
+            "TopMargin": 45.127,
+            "BottomMargin": 22.873,
+            "Tag": 4884,
+            "ActionTag": 581280950,
+            "Size": {
+              "X": 50.0,
+              "Y": 80.0
+            },
+            "Name": "shan01_8",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 146.0,
+          "Y": 148.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "shu/shan03.png",
+        "shu/shan05.png",
+        "shu/shan01.png",
+        "shu/shan02.png",
+        "shu/shan04.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

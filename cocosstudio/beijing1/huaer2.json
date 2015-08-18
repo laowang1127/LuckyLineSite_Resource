@@ -1,0 +1,530 @@
+{
+  "ID": "69c8f952-e132-4b47-89f5-62e46137a8a8",
+  "Version": "2.3.0.0",
+  "Name": "huaer2",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 11183,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -90.1019,
+              "Y": 19.7942
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -100.1019,
+            "RightMargin": 80.1019,
+            "TopMargin": -26.7942,
+            "BottomMargin": 12.7942,
+            "Tag": 11185,
+            "ActionTag": -1180632103,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer2_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -132.4783,
+              "Y": -34.4369
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -142.4783,
+            "RightMargin": 122.4783,
+            "TopMargin": 27.4369,
+            "BottomMargin": -41.4369,
+            "Tag": 11186,
+            "ActionTag": -383409008,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer3_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -71.7168,
+              "Y": 35.8794
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -81.7168,
+            "RightMargin": 61.7168,
+            "TopMargin": -42.8794,
+            "BottomMargin": 28.8794,
+            "Tag": 11187,
+            "ActionTag": -1684092921,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer4_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -16.5458,
+              "Y": 21.2664
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -28.0458,
+            "RightMargin": 5.0458,
+            "TopMargin": -35.7664,
+            "BottomMargin": 6.7664,
+            "Tag": 11188,
+            "ActionTag": -407565933,
+            "Size": {
+              "X": 23.0,
+              "Y": 29.0
+            },
+            "Name": "huaer5_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -348.0064,
+              "Y": -145.639
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -358.0064,
+            "RightMargin": 338.0064,
+            "TopMargin": 138.639,
+            "BottomMargin": -152.639,
+            "Tag": 13988,
+            "ActionTag": 2060422908,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer2_2_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -415.9423,
+              "Y": -170.9792
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -425.9423,
+            "RightMargin": 405.9423,
+            "TopMargin": 163.9792,
+            "BottomMargin": -177.9792,
+            "Tag": 13989,
+            "ActionTag": -966214707,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer3_3_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -372.6138,
+              "Y": -172.7599
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -382.6138,
+            "RightMargin": 362.6138,
+            "TopMargin": 165.7599,
+            "BottomMargin": -179.7599,
+            "Tag": 13990,
+            "ActionTag": -268908250,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer4_4_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -70.3033,
+              "Y": 0.6846
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -80.3033,
+            "RightMargin": 60.3033,
+            "TopMargin": -7.6846,
+            "BottomMargin": -6.3154,
+            "Tag": 16788,
+            "ActionTag": 2110747289,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer3_3_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -102.0403,
+              "Y": 2.802
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -112.0403,
+            "RightMargin": 92.0403,
+            "TopMargin": -9.802,
+            "BottomMargin": -4.198,
+            "Tag": 19586,
+            "ActionTag": 976108411,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer3_3_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -117.4348,
+              "Y": 17.312
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -127.4348,
+            "RightMargin": 107.4348,
+            "TopMargin": -24.312,
+            "BottomMargin": 10.312,
+            "Tag": 19589,
+            "ActionTag": 1856864881,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer4_4_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -128.8788,
+              "Y": -3.5567
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -138.8788,
+            "RightMargin": 118.8788,
+            "TopMargin": -3.4433,
+            "BottomMargin": -10.5567,
+            "Tag": 19590,
+            "ActionTag": 474847235,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer4_4_2",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "shu/huaer4.png",
+        "shu/huaer2.png",
+        "shu/huaer5.png",
+        "shu/huaer3.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

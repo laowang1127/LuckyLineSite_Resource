@@ -1,0 +1,3787 @@
+{
+  "ID": "31b0b4fb-6c7f-485d-8765-b9c155807525",
+  "Version": "2.3.2.0",
+  "Name": "Role",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 156,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "dibu_01.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 8,
+            "Scale9Height": 8,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 492.499,
+              "Y": 327.8529
+            },
+            "Scale": {
+              "ScaleX": 36.9798,
+              "ScaleY": 23.5358
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4925,
+              "Y": 0.5464
+            },
+            "PreSize": {
+              "X": 0.02,
+              "Y": 0.0333
+            },
+            "LeftMargin": 482.499,
+            "RightMargin": 497.501,
+            "TopMargin": 262.1471,
+            "BottomMargin": 317.8529,
+            "Tag": 1298,
+            "ActionTag": -124407180,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "Button_2_0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "uibind.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "uibind.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 10,
+            "Scale9Width": 12,
+            "Scale9Height": 12,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 497.0135,
+              "Y": 296.7222
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.497,
+              "Y": 0.4945
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -2.9865,
+            "RightMargin": 2.9865,
+            "TopMargin": 3.2778,
+            "BottomMargin": -3.2778,
+            "Tag": 136,
+            "ActionTag": -812802725,
+            "Size": {
+              "X": 1000.0,
+              "Y": 600.0
+            },
+            "Name": "diable_touch",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dibu_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 498.238,
+              "Y": 323.5483
+            },
+            "Scale": {
+              "ScaleX": 38.8239,
+              "ScaleY": 25.6403
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4982,
+              "Y": 0.5392
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 488.238,
+            "RightMargin": 491.762,
+            "TopMargin": 266.4517,
+            "BottomMargin": 313.5483,
+            "Tag": 1513,
+            "ActionTag": 1966895136,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "dibu_01_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dibu_02.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 498.2391,
+              "Y": 323.5483
+            },
+            "Scale": {
+              "ScaleX": 38.2289,
+              "ScaleY": 25.195
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4982,
+              "Y": 0.5392
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 488.2391,
+            "RightMargin": 491.7609,
+            "TopMargin": 266.4517,
+            "BottomMargin": 313.5483,
+            "Tag": 1514,
+            "ActionTag": 1249823379,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "dibu_02_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dibu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 498.238,
+              "Y": 323.5483
+            },
+            "Scale": {
+              "ScaleX": 37.4709,
+              "ScaleY": 24.5258
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4982,
+              "Y": 0.5392
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 488.238,
+            "RightMargin": 491.762,
+            "TopMargin": 266.4517,
+            "BottomMargin": 313.5483,
+            "Tag": 1515,
+            "ActionTag": -779137063,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "dibu_03_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "beij.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 626.985,
+              "Y": 349.8497
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.627,
+              "Y": 0.5831
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 398.485,
+            "RightMargin": 144.515,
+            "TopMargin": 113.6503,
+            "BottomMargin": 213.3497,
+            "Tag": 137,
+            "ActionTag": -1064994334,
+            "Size": {
+              "X": 457.0,
+              "Y": 273.0
+            },
+            "Name": "beij_78",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "kuang.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 444.5076,
+              "Y": 404.5056
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4445,
+              "Y": 0.6742
+            },
+            "PreSize": {
+              "X": 0.072,
+              "Y": 0.1733
+            },
+            "LeftMargin": 408.5076,
+            "RightMargin": 519.4924,
+            "TopMargin": 143.4944,
+            "BottomMargin": 352.5056,
+            "Tag": 144,
+            "ActionTag": 568261083,
+            "Size": {
+              "X": 72.0,
+              "Y": 104.0
+            },
+            "Name": "ck_role_1",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "kuang.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 532.7111,
+              "Y": 404.5056
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5327,
+              "Y": 0.6742
+            },
+            "PreSize": {
+              "X": 0.072,
+              "Y": 0.1733
+            },
+            "LeftMargin": 496.7111,
+            "RightMargin": 431.2889,
+            "TopMargin": 143.4944,
+            "BottomMargin": 352.5056,
+            "Tag": 145,
+            "ActionTag": 1552244424,
+            "Size": {
+              "X": 72.0,
+              "Y": 104.0
+            },
+            "Name": "ck_role_2",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "kuang.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 620.9277,
+              "Y": 404.5056
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6209,
+              "Y": 0.6742
+            },
+            "PreSize": {
+              "X": 0.072,
+              "Y": 0.1733
+            },
+            "LeftMargin": 584.9277,
+            "RightMargin": 343.0723,
+            "TopMargin": 143.4944,
+            "BottomMargin": 352.5056,
+            "Tag": 146,
+            "ActionTag": 1201772861,
+            "Size": {
+              "X": 72.0,
+              "Y": 104.0
+            },
+            "Name": "ck_role_3",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "kuang.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 709.134,
+              "Y": 404.5056
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7091,
+              "Y": 0.6742
+            },
+            "PreSize": {
+              "X": 0.072,
+              "Y": 0.1733
+            },
+            "LeftMargin": 673.134,
+            "RightMargin": 254.866,
+            "TopMargin": 143.4944,
+            "BottomMargin": 352.5056,
+            "Tag": 147,
+            "ActionTag": -1753817498,
+            "Size": {
+              "X": 72.0,
+              "Y": 104.0
+            },
+            "Name": "ck_role_4",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "kuang.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 797.3391,
+              "Y": 404.5056
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7973,
+              "Y": 0.6742
+            },
+            "PreSize": {
+              "X": 0.072,
+              "Y": 0.1733
+            },
+            "LeftMargin": 761.3391,
+            "RightMargin": 166.6609,
+            "TopMargin": 143.4944,
+            "BottomMargin": 352.5056,
+            "Tag": 148,
+            "ActionTag": -291895079,
+            "Size": {
+              "X": 72.0,
+              "Y": 104.0
+            },
+            "Name": "ck_role_5",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "kuang.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 445.2181,
+              "Y": 275.0937
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4452,
+              "Y": 0.4585
+            },
+            "PreSize": {
+              "X": 0.072,
+              "Y": 0.1733
+            },
+            "LeftMargin": 409.2181,
+            "RightMargin": 518.7819,
+            "TopMargin": 272.9063,
+            "BottomMargin": 223.0937,
+            "Tag": 149,
+            "ActionTag": -304123944,
+            "Size": {
+              "X": 72.0,
+              "Y": 104.0
+            },
+            "Name": "ck_role_6",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "kuang.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 533.4249,
+              "Y": 275.0937
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5334,
+              "Y": 0.4585
+            },
+            "PreSize": {
+              "X": 0.072,
+              "Y": 0.1733
+            },
+            "LeftMargin": 497.4249,
+            "RightMargin": 430.5751,
+            "TopMargin": 272.9063,
+            "BottomMargin": 223.0937,
+            "Tag": 150,
+            "ActionTag": 965400670,
+            "Size": {
+              "X": 72.0,
+              "Y": 104.0
+            },
+            "Name": "ck_role_7",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "kuang.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 621.6389,
+              "Y": 275.0937
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6216,
+              "Y": 0.4585
+            },
+            "PreSize": {
+              "X": 0.072,
+              "Y": 0.1733
+            },
+            "LeftMargin": 585.6389,
+            "RightMargin": 342.3611,
+            "TopMargin": 272.9063,
+            "BottomMargin": 223.0937,
+            "Tag": 151,
+            "ActionTag": 178085053,
+            "Size": {
+              "X": 72.0,
+              "Y": 104.0
+            },
+            "Name": "ck_role_8",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "kuang.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 709.84,
+              "Y": 275.0937
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7098,
+              "Y": 0.4585
+            },
+            "PreSize": {
+              "X": 0.072,
+              "Y": 0.1733
+            },
+            "LeftMargin": 673.84,
+            "RightMargin": 254.16,
+            "TopMargin": 272.9063,
+            "BottomMargin": 223.0937,
+            "Tag": 152,
+            "ActionTag": 955050586,
+            "Size": {
+              "X": 72.0,
+              "Y": 104.0
+            },
+            "Name": "ck_role_9",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "r1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 444.2009,
+              "Y": 405.2763
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4442,
+              "Y": 0.6755
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 419.2009,
+            "RightMargin": 530.7991,
+            "TopMargin": 147.2237,
+            "BottomMargin": 357.7763,
+            "Tag": 154,
+            "ActionTag": -821491218,
+            "Size": {
+              "X": 50.0,
+              "Y": 95.0
+            },
+            "Name": "j1_79",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "kapai.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "kuang.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 798.0446,
+              "Y": 275.0937
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.798,
+              "Y": 0.4585
+            },
+            "PreSize": {
+              "X": 0.072,
+              "Y": 0.1733
+            },
+            "LeftMargin": 762.0446,
+            "RightMargin": 165.9554,
+            "TopMargin": 272.9063,
+            "BottomMargin": 223.0937,
+            "Tag": 153,
+            "ActionTag": -859693331,
+            "Size": {
+              "X": 72.0,
+              "Y": 104.0
+            },
+            "Name": "ck_role_10",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "r2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 531.7487,
+              "Y": 405.4533
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5317,
+              "Y": 0.6758
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 506.7487,
+            "RightMargin": 443.2513,
+            "TopMargin": 147.0467,
+            "BottomMargin": 357.9533,
+            "Tag": 155,
+            "ActionTag": -860189614,
+            "Size": {
+              "X": 50.0,
+              "Y": 95.0
+            },
+            "Name": "j1_79_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "r3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 617.9589,
+              "Y": 403.4527
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.618,
+              "Y": 0.6724
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 592.9589,
+            "RightMargin": 357.0411,
+            "TopMargin": 149.0473,
+            "BottomMargin": 355.9527,
+            "Tag": 156,
+            "ActionTag": -1850940674,
+            "Size": {
+              "X": 50.0,
+              "Y": 95.0
+            },
+            "Name": "j1_79_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "r4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 709.1161,
+              "Y": 404.5029
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7091,
+              "Y": 0.6742
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 684.1161,
+            "RightMargin": 265.8839,
+            "TopMargin": 147.9971,
+            "BottomMargin": 357.0029,
+            "Tag": 157,
+            "ActionTag": 521689465,
+            "Size": {
+              "X": 50.0,
+              "Y": 95.0
+            },
+            "Name": "j1_79_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "r5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 796.1749,
+              "Y": 402.8659
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7962,
+              "Y": 0.6714
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 771.1749,
+            "RightMargin": 178.8251,
+            "TopMargin": 149.6341,
+            "BottomMargin": 355.3659,
+            "Tag": 158,
+            "ActionTag": 1526407478,
+            "Size": {
+              "X": 50.0,
+              "Y": 95.0
+            },
+            "Name": "j1_79_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "r6.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 442.2117,
+              "Y": 274.7939
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4422,
+              "Y": 0.458
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 417.2117,
+            "RightMargin": 532.7883,
+            "TopMargin": 277.7061,
+            "BottomMargin": 227.2939,
+            "Tag": 159,
+            "ActionTag": -591051410,
+            "Size": {
+              "X": 50.0,
+              "Y": 95.0
+            },
+            "Name": "j1_79_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dibu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 267.5313,
+              "Y": 348.5659
+            },
+            "Scale": {
+              "ScaleX": 12.7677,
+              "ScaleY": 13.3988
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2675,
+              "Y": 0.5809
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 257.5313,
+            "RightMargin": 722.4687,
+            "TopMargin": 241.4341,
+            "BottomMargin": 338.5659,
+            "Tag": 564,
+            "ActionTag": -1737769639,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Alpha": 119,
+            "Name": "dibu_04_105",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "r7.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 533.4068,
+              "Y": 275.0925
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5334,
+              "Y": 0.4585
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 508.4068,
+            "RightMargin": 441.5932,
+            "TopMargin": 277.4075,
+            "BottomMargin": 227.5925,
+            "Tag": 160,
+            "ActionTag": 921626599,
+            "Size": {
+              "X": 50.0,
+              "Y": 95.0
+            },
+            "Name": "j1_79_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "r8.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 623.7151,
+              "Y": 273.0925
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6237,
+              "Y": 0.4552
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 598.7151,
+            "RightMargin": 351.2849,
+            "TopMargin": 279.4075,
+            "BottomMargin": 225.5925,
+            "Tag": 161,
+            "ActionTag": 1629036591,
+            "Size": {
+              "X": 50.0,
+              "Y": 95.0
+            },
+            "Name": "j1_79_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "r9.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 709.826,
+              "Y": 272.1386
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7098,
+              "Y": 0.4536
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 684.826,
+            "RightMargin": 265.174,
+            "TopMargin": 280.3614,
+            "BottomMargin": 224.6386,
+            "Tag": 162,
+            "ActionTag": -254512698,
+            "Size": {
+              "X": 50.0,
+              "Y": 95.0
+            },
+            "Name": "j1_79_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "r10.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 793.3282,
+              "Y": 264.103
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7933,
+              "Y": 0.4402
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 769.3282,
+            "RightMargin": 182.6718,
+            "TopMargin": 301.397,
+            "BottomMargin": 229.603,
+            "Tag": 163,
+            "ActionTag": -2110968967,
+            "Size": {
+              "X": 48.0,
+              "Y": 69.0
+            },
+            "Name": "j1_79_8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "ButtonText": "",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "fb2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "fb.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 10,
+            "Scale9Width": 153,
+            "Scale9Height": 27,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 302.7049,
+              "Y": 166.6184
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3027,
+              "Y": 0.2777
+            },
+            "PreSize": {
+              "X": 0.183,
+              "Y": 0.0783
+            },
+            "LeftMargin": 211.2049,
+            "RightMargin": 605.7951,
+            "TopMargin": 409.8816,
+            "BottomMargin": 143.1184,
+            "Tag": 142,
+            "ActionTag": 1256495671,
+            "Size": {
+              "X": 183.0,
+              "Y": 47.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "ButtonText": "",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "tw2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "tw.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 10,
+            "Scale9Width": 153,
+            "Scale9Height": 27,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5593,
+              "ScaleY": 0.6598
+            },
+            "Position": {
+              "X": 708.9353,
+              "Y": 174.1288
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7089,
+              "Y": 0.2902
+            },
+            "PreSize": {
+              "X": 0.183,
+              "Y": 0.0783
+            },
+            "LeftMargin": 606.5834,
+            "RightMargin": 210.4166,
+            "TopMargin": 409.8818,
+            "BottomMargin": 143.1182,
+            "Tag": 143,
+            "ActionTag": 1705459435,
+            "Size": {
+              "X": 183.0,
+              "Y": 47.0
+            },
+            "Name": "Button_1_0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "测试用（以后去掉）",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "anliu.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "anliu2.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 10,
+            "Scale9Width": 79,
+            "Scale9Height": 13,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5321,
+              "ScaleY": 0.582
+            },
+            "Position": {
+              "X": 499.7262,
+              "Y": 98.539
+            },
+            "Scale": {
+              "ScaleX": 1.7647,
+              "ScaleY": 1.5663
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4997,
+              "Y": 0.1642
+            },
+            "PreSize": {
+              "X": 0.15,
+              "Y": 0.055
+            },
+            "LeftMargin": 419.9112,
+            "RightMargin": 430.0888,
+            "TopMargin": 487.667,
+            "BottomMargin": 79.333,
+            "Tag": 140,
+            "ActionTag": -151352941,
+            "Size": {
+              "X": 150.0,
+              "Y": 33.0
+            },
+            "Name": "Button_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "The R7 Place Race.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 543.6953,
+              "Y": 529.3072
+            },
+            "Scale": {
+              "ScaleX": 1.1,
+              "ScaleY": 1.1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5437,
+              "Y": 0.8822
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 367.1953,
+            "RightMargin": 279.8047,
+            "TopMargin": 46.1928,
+            "BottomMargin": 504.8072,
+            "Tag": 136,
+            "ActionTag": -1890714133,
+            "Size": {
+              "X": 353.0,
+              "Y": 49.0
+            },
+            "Name": "Sprite_77",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dibu_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 267.5329,
+              "Y": 467.2003
+            },
+            "Scale": {
+              "ScaleX": 12.6807,
+              "ScaleY": 1.5358
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2675,
+              "Y": 0.7787
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 257.5329,
+            "RightMargin": 722.4671,
+            "TopMargin": 122.7997,
+            "BottomMargin": 457.2003,
+            "Tag": 1305,
+            "ActionTag": -667825702,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "dibu_01_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dibu_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 621.343,
+              "Y": 478.3604
+            },
+            "Scale": {
+              "ScaleX": 11.8025,
+              "ScaleY": 1.4303
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6213,
+              "Y": 0.7973
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 611.343,
+            "RightMargin": 368.657,
+            "TopMargin": 111.6396,
+            "BottomMargin": 468.3604,
+            "Tag": 1518,
+            "ActionTag": 1210551887,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "dibu_01_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "Select your character",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.4451,
+              "ScaleY": 0.4599
+            },
+            "Position": {
+              "X": 611.4781,
+              "Y": 478.144
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6115,
+              "Y": 0.7969
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 518.0071,
+            "RightMargin": 271.9929,
+            "TopMargin": 111.054,
+            "BottomMargin": 468.946,
+            "Tag": 2258,
+            "ActionTag": -1104332879,
+            "Size": {
+              "X": 210.0,
+              "Y": 20.0
+            },
+            "Name": "Text_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "Malaysia",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.4451,
+              "ScaleY": 0.4599
+            },
+            "Position": {
+              "X": 239.1842,
+              "Y": 370.502
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 50,
+              "G": 88,
+              "B": 94
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2392,
+              "Y": 0.6175
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 214.2586,
+            "RightMargin": 729.7414,
+            "TopMargin": 221.9366,
+            "BottomMargin": 364.0634,
+            "Tag": 562,
+            "ActionTag": -1639533719,
+            "Size": {
+              "X": 56.0,
+              "Y": 14.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Text_2_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "Email",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.4451,
+              "ScaleY": 0.4599
+            },
+            "Position": {
+              "X": 167.1041,
+              "Y": 466.2752
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 15,
+              "G": 56,
+              "B": 63
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1671,
+              "Y": 0.7771
+            },
+            "PreSize": {
+              "X": 0.096,
+              "Y": 0.0267
+            },
+            "LeftMargin": 149.3001,
+            "RightMargin": 810.6999,
+            "TopMargin": 125.0832,
+            "BottomMargin": 458.9168,
+            "Tag": 567,
+            "ActionTag": 49740653,
+            "Size": {
+              "X": 40.0,
+              "Y": 16.0
+            },
+            "Name": "Text_2_0_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dibu_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 256.8653,
+              "Y": 427.2393
+            },
+            "Scale": {
+              "ScaleX": 8.3571,
+              "ScaleY": 1.4395
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2569,
+              "Y": 0.7121
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 246.8653,
+            "RightMargin": 733.1347,
+            "TopMargin": 162.7607,
+            "BottomMargin": 417.2393,
+            "Tag": 568,
+            "ActionTag": -95135055,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "dibu_01_106_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dibu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 249.7453,
+              "Y": 426.3598
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2497,
+              "Y": 0.7106
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 239.7453,
+            "RightMargin": 740.2547,
+            "TopMargin": 163.6402,
+            "BottomMargin": 416.3598,
+            "Tag": 569,
+            "ActionTag": 949562756,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "dibu_03_107_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "America",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.4451,
+              "ScaleY": 0.4599
+            },
+            "Position": {
+              "X": 318.931,
+              "Y": 369.9246
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 50,
+              "G": 88,
+              "B": 94
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3189,
+              "Y": 0.6165
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 297.1211,
+            "RightMargin": 653.8789,
+            "TopMargin": 222.514,
+            "BottomMargin": 363.486,
+            "Tag": 573,
+            "ActionTag": -1866962851,
+            "Size": {
+              "X": 49.0,
+              "Y": 14.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Text_2_0_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "India",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.4451,
+              "ScaleY": 0.4599
+            },
+            "Position": {
+              "X": 230.3252,
+              "Y": 339.2091
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 50,
+              "G": 88,
+              "B": 94
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2303,
+              "Y": 0.5653
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 214.7467,
+            "RightMargin": 750.2533,
+            "TopMargin": 253.2295,
+            "BottomMargin": 332.7705,
+            "Tag": 574,
+            "ActionTag": -1541484438,
+            "Size": {
+              "X": 35.0,
+              "Y": 14.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Text_2_0_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "Indonesia",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.4451,
+              "ScaleY": 0.4599
+            },
+            "Position": {
+              "X": 324.2233,
+              "Y": 338.242
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 50,
+              "G": 88,
+              "B": 94
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3242,
+              "Y": 0.5637
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 296.182,
+            "RightMargin": 640.818,
+            "TopMargin": 254.1966,
+            "BottomMargin": 331.8034,
+            "Tag": 575,
+            "ActionTag": -685285718,
+            "Size": {
+              "X": 63.0,
+              "Y": 14.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Text_2_0_3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "Egypt",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.4451,
+              "ScaleY": 0.4599
+            },
+            "Position": {
+              "X": 230.5497,
+              "Y": 307.5092
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 50,
+              "G": 88,
+              "B": 94
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2305,
+              "Y": 0.5125
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 214.9712,
+            "RightMargin": 750.0288,
+            "TopMargin": 284.9294,
+            "BottomMargin": 301.0706,
+            "Tag": 576,
+            "ActionTag": 715383621,
+            "Size": {
+              "X": 35.0,
+              "Y": 14.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Text_2_0_4",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "Singapore",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.4451,
+              "ScaleY": 0.4599
+            },
+            "Position": {
+              "X": 321.9459,
+              "Y": 309.7436
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 50,
+              "G": 88,
+              "B": 94
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3219,
+              "Y": 0.5162
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 293.9046,
+            "RightMargin": 643.0954,
+            "TopMargin": 282.695,
+            "BottomMargin": 303.305,
+            "Tag": 577,
+            "ActionTag": 1579682430,
+            "Size": {
+              "X": 63.0,
+              "Y": 14.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Text_2_0_5",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "Australia",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.4451,
+              "ScaleY": 0.4599
+            },
+            "Position": {
+              "X": 241.5569,
+              "Y": 278.8775
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 50,
+              "G": 88,
+              "B": 94
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2416,
+              "Y": 0.4648
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 213.5156,
+            "RightMargin": 723.4844,
+            "TopMargin": 313.5611,
+            "BottomMargin": 272.4389,
+            "Tag": 578,
+            "ActionTag": 902301342,
+            "Size": {
+              "X": 63.0,
+              "Y": 14.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Text_2_0_6",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Please wait...",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 499.598,
+              "Y": 164.0815
+            },
+            "Scale": {
+              "ScaleX": 0.9519,
+              "ScaleY": 0.8197
+            },
+            "CColor": {
+              "R": 0,
+              "G": 141,
+              "B": 81
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4996,
+              "Y": 0.2735
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 415.598,
+            "RightMargin": 416.402,
+            "TopMargin": 423.9185,
+            "BottomMargin": 152.0815,
+            "Tag": 64,
+            "ActionTag": 387318144,
+            "Size": {
+              "X": 168.0,
+              "Y": 24.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "uibind.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "uibind.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 10,
+            "Scale9Width": 12,
+            "Scale9Height": 12,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 494.3514,
+              "Y": 353.41
+            },
+            "Scale": {
+              "ScaleX": 22.82,
+              "ScaleY": 12.5151
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4944,
+              "Y": 0.589
+            },
+            "PreSize": {
+              "X": 0.032,
+              "Y": 0.0533
+            },
+            "LeftMargin": 478.3514,
+            "RightMargin": 489.6486,
+            "TopMargin": 230.59,
+            "BottomMargin": 337.41,
+            "Tag": 76,
+            "ActionTag": 1408042394,
+            "Size": {
+              "X": 32.0,
+              "Y": 32.0
+            },
+            "Name": "Button_3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "12345678901234567890123",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 175.8771,
+              "Y": 427.3893
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1759,
+              "Y": 0.7123
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 175.8771,
+            "RightMargin": 663.1229,
+            "TopMargin": 165.6107,
+            "BottomMargin": 420.3893,
+            "Tag": 135,
+            "ActionTag": -403505293,
+            "Size": {
+              "X": 161.0,
+              "Y": 14.0
+            },
+            "Name": "Text_3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "Morocco",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 199.4084,
+              "Y": 397.4352
+            },
+            "Scale": {
+              "ScaleX": 0.8705,
+              "ScaleY": 0.8705
+            },
+            "CColor": {
+              "R": 1,
+              "G": 96,
+              "B": 115
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1994,
+              "Y": 0.6624
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 171.4084,
+            "RightMargin": 772.5916,
+            "TopMargin": 194.5648,
+            "BottomMargin": 389.4352,
+            "Tag": 255,
+            "ActionTag": -2028021818,
+            "Size": {
+              "X": 56.0,
+              "Y": 16.0
+            },
+            "Name": "Text_12",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "India",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 192.4444,
+              "Y": 369.1093
+            },
+            "Scale": {
+              "ScaleX": 0.8705,
+              "ScaleY": 0.8705
+            },
+            "CColor": {
+              "R": 1,
+              "G": 96,
+              "B": 115
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1924,
+              "Y": 0.6152
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 172.4444,
+            "RightMargin": 787.5556,
+            "TopMargin": 222.8907,
+            "BottomMargin": 361.1093,
+            "Tag": 257,
+            "ActionTag": 2008438689,
+            "Size": {
+              "X": 40.0,
+              "Y": 16.0
+            },
+            "Name": "Text_12_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "Taiwan",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 293.0948,
+              "Y": 285.0918
+            },
+            "Scale": {
+              "ScaleX": 0.8705,
+              "ScaleY": 0.8705
+            },
+            "CColor": {
+              "R": 1,
+              "G": 96,
+              "B": 115
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2931,
+              "Y": 0.4752
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 269.0948,
+            "RightMargin": 682.9052,
+            "TopMargin": 306.9082,
+            "BottomMargin": 277.0918,
+            "Tag": 258,
+            "ActionTag": -1709425089,
+            "Size": {
+              "X": 48.0,
+              "Y": 16.0
+            },
+            "Name": "Text_12_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "Europe ",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 199.4084,
+              "Y": 340.8019
+            },
+            "Scale": {
+              "ScaleX": 0.8705,
+              "ScaleY": 0.8705
+            },
+            "CColor": {
+              "R": 1,
+              "G": 96,
+              "B": 115
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1994,
+              "Y": 0.568
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 171.4084,
+            "RightMargin": 772.5916,
+            "TopMargin": 251.1981,
+            "BottomMargin": 332.8019,
+            "Tag": 259,
+            "ActionTag": -1976208091,
+            "Size": {
+              "X": 56.0,
+              "Y": 16.0
+            },
+            "Name": "Text_12_3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "North America",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 315.1537,
+              "Y": 396.7878
+            },
+            "Scale": {
+              "ScaleX": 0.8705,
+              "ScaleY": 0.8705
+            },
+            "CColor": {
+              "R": 1,
+              "G": 96,
+              "B": 115
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3152,
+              "Y": 0.6613
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 263.1537,
+            "RightMargin": 632.8463,
+            "TopMargin": 195.2122,
+            "BottomMargin": 388.7878,
+            "Tag": 260,
+            "ActionTag": 598979698,
+            "Size": {
+              "X": 104.0,
+              "Y": 16.0
+            },
+            "Name": "Text_12_4",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "Sri Lanka",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 303.2026,
+              "Y": 312.7998
+            },
+            "Scale": {
+              "ScaleX": 0.8705,
+              "ScaleY": 0.8705
+            },
+            "CColor": {
+              "R": 1,
+              "G": 96,
+              "B": 115
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3032,
+              "Y": 0.5213
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 267.2026,
+            "RightMargin": 660.7974,
+            "TopMargin": 279.2002,
+            "BottomMargin": 304.7998,
+            "Tag": 270,
+            "ActionTag": -1684280715,
+            "Size": {
+              "X": 72.0,
+              "Y": 16.0
+            },
+            "Name": "Text_12_4_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "Bangladesh",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 306.6846,
+              "Y": 369.1093
+            },
+            "Scale": {
+              "ScaleX": 0.8705,
+              "ScaleY": 0.8705
+            },
+            "CColor": {
+              "R": 1,
+              "G": 96,
+              "B": 115
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3067,
+              "Y": 0.6152
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 266.6846,
+            "RightMargin": 653.3154,
+            "TopMargin": 222.8907,
+            "BottomMargin": 361.1093,
+            "Tag": 286,
+            "ActionTag": -1561077837,
+            "Size": {
+              "X": 80.0,
+              "Y": 16.0
+            },
+            "Name": "Text_12_4_0_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "Algeria",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 199.4084,
+              "Y": 312.7997
+            },
+            "Scale": {
+              "ScaleX": 0.8705,
+              "ScaleY": 0.8705
+            },
+            "CColor": {
+              "R": 1,
+              "G": 96,
+              "B": 115
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1994,
+              "Y": 0.5213
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 171.4084,
+            "RightMargin": 772.5916,
+            "TopMargin": 279.2003,
+            "BottomMargin": 304.7997,
+            "Tag": 287,
+            "ActionTag": -876479629,
+            "Size": {
+              "X": 56.0,
+              "Y": 16.0
+            },
+            "Name": "Text_12_4_0_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "Indonesia",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 303.2026,
+              "Y": 340.3832
+            },
+            "Scale": {
+              "ScaleX": 0.8705,
+              "ScaleY": 0.8705
+            },
+            "CColor": {
+              "R": 1,
+              "G": 96,
+              "B": 115
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3032,
+              "Y": 0.5673
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 267.2026,
+            "RightMargin": 660.7974,
+            "TopMargin": 251.6168,
+            "BottomMargin": 332.3832,
+            "Tag": 288,
+            "ActionTag": 150928827,
+            "Size": {
+              "X": 72.0,
+              "Y": 16.0
+            },
+            "Name": "Text_12_4_0_3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "Iran",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 188.9624,
+              "Y": 285.0907
+            },
+            "Scale": {
+              "ScaleX": 0.8705,
+              "ScaleY": 0.8705
+            },
+            "CColor": {
+              "R": 1,
+              "G": 96,
+              "B": 115
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.189,
+              "Y": 0.4752
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 172.9624,
+            "RightMargin": 795.0376,
+            "TopMargin": 306.9093,
+            "BottomMargin": 277.0907,
+            "Tag": 290,
+            "ActionTag": -1235985341,
+            "Size": {
+              "X": 32.0,
+              "Y": 16.0
+            },
+            "Name": "Text_12_4_0_5",
+            "ctype": "TextObjectData"
+          },
+          {
+            "CheckedState": true,
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 155.1537,
+              "Y": 394.8932
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1552,
+              "Y": 0.6582
+            },
+            "PreSize": {
+              "X": 0.023,
+              "Y": 0.0333
+            },
+            "LeftMargin": 143.6537,
+            "RightMargin": 833.3463,
+            "TopMargin": 195.1068,
+            "BottomMargin": 384.8932,
+            "Tag": 168,
+            "ActionTag": 1402111751,
+            "Size": {
+              "X": 23.0,
+              "Y": 20.0
+            },
+            "Name": "morocco",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5385,
+              "ScaleY": 0.5603
+            },
+            "Position": {
+              "X": 156.0403,
+              "Y": 342.0082
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.156,
+              "Y": 0.57
+            },
+            "PreSize": {
+              "X": 0.023,
+              "Y": 0.0333
+            },
+            "LeftMargin": 143.6548,
+            "RightMargin": 833.3452,
+            "TopMargin": 249.1978,
+            "BottomMargin": 330.8022,
+            "Tag": 169,
+            "ActionTag": -1145170457,
+            "Size": {
+              "X": 23.0,
+              "Y": 20.0
+            },
+            "Name": "europe",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 155.1537,
+              "Y": 312.7997
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1552,
+              "Y": 0.5213
+            },
+            "PreSize": {
+              "X": 0.023,
+              "Y": 0.0333
+            },
+            "LeftMargin": 143.6537,
+            "RightMargin": 833.3463,
+            "TopMargin": 277.2003,
+            "BottomMargin": 302.7997,
+            "Tag": 170,
+            "ActionTag": -240409509,
+            "Size": {
+              "X": 23.0,
+              "Y": 20.0
+            },
+            "Name": "algeria",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.4336,
+              "ScaleY": 0.6391
+            },
+            "Position": {
+              "X": 153.6274,
+              "Y": 288.2913
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1536,
+              "Y": 0.4805
+            },
+            "PreSize": {
+              "X": 0.023,
+              "Y": 0.0333
+            },
+            "LeftMargin": 143.6546,
+            "RightMargin": 833.3454,
+            "TopMargin": 304.4907,
+            "BottomMargin": 275.5093,
+            "Tag": 171,
+            "ActionTag": -469736263,
+            "Size": {
+              "X": 23.0,
+              "Y": 20.0
+            },
+            "Name": "iran",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 253.5073,
+              "Y": 394.8932
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2535,
+              "Y": 0.6582
+            },
+            "PreSize": {
+              "X": 0.023,
+              "Y": 0.0333
+            },
+            "LeftMargin": 242.0073,
+            "RightMargin": 734.9927,
+            "TopMargin": 195.1068,
+            "BottomMargin": 384.8932,
+            "Tag": 172,
+            "ActionTag": -1414970295,
+            "Size": {
+              "X": 23.0,
+              "Y": 20.0
+            },
+            "Name": "north_america",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 253.5073,
+              "Y": 369.1093
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2535,
+              "Y": 0.6152
+            },
+            "PreSize": {
+              "X": 0.023,
+              "Y": 0.0333
+            },
+            "LeftMargin": 242.0073,
+            "RightMargin": 734.9927,
+            "TopMargin": 220.8907,
+            "BottomMargin": 359.1093,
+            "Tag": 174,
+            "ActionTag": -1861971433,
+            "Size": {
+              "X": 23.0,
+              "Y": 20.0
+            },
+            "Name": "bangladesh",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 253.5073,
+              "Y": 312.7998
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2535,
+              "Y": 0.5213
+            },
+            "PreSize": {
+              "X": 0.023,
+              "Y": 0.0333
+            },
+            "LeftMargin": 242.0073,
+            "RightMargin": 734.9927,
+            "TopMargin": 277.2002,
+            "BottomMargin": 302.7998,
+            "Tag": 176,
+            "ActionTag": -1851351381,
+            "Size": {
+              "X": 23.0,
+              "Y": 20.0
+            },
+            "Name": "sri_lanka",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 253.5073,
+              "Y": 285.0907
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2535,
+              "Y": 0.4752
+            },
+            "PreSize": {
+              "X": 0.023,
+              "Y": 0.0333
+            },
+            "LeftMargin": 242.0073,
+            "RightMargin": 734.9927,
+            "TopMargin": 304.9093,
+            "BottomMargin": 275.0907,
+            "Tag": 177,
+            "ActionTag": 1734655534,
+            "Size": {
+              "X": 23.0,
+              "Y": 20.0
+            },
+            "Name": "taiwan",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5385,
+              "ScaleY": 0.5603
+            },
+            "Position": {
+              "X": 157.2469,
+              "Y": 367.6017
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1572,
+              "Y": 0.6127
+            },
+            "PreSize": {
+              "X": 0.023,
+              "Y": 0.0333
+            },
+            "LeftMargin": 144.8614,
+            "RightMargin": 832.1386,
+            "TopMargin": 223.6043,
+            "BottomMargin": 356.3957,
+            "Tag": 179,
+            "ActionTag": -365814203,
+            "Size": {
+              "X": 23.0,
+              "Y": 20.0
+            },
+            "Name": "india",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Normal",
+              "Path": "di.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Normal",
+              "Path": "gou.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5385,
+              "ScaleY": 0.5603
+            },
+            "Position": {
+              "X": 254.3928,
+              "Y": 339.9645
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2544,
+              "Y": 0.5666
+            },
+            "PreSize": {
+              "X": 0.023,
+              "Y": 0.0333
+            },
+            "LeftMargin": 242.0073,
+            "RightMargin": 734.9927,
+            "TopMargin": 251.2415,
+            "BottomMargin": 328.7585,
+            "Tag": 180,
+            "ActionTag": 204849605,
+            "Size": {
+              "X": 23.0,
+              "Y": 20.0
+            },
+            "Name": "indonesia",
+            "ctype": "CheckBoxObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1000.0,
+          "Y": 600.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "anliu.png",
+        "anliu2.png",
+        "beij.png",
+        "Default/Button_Disable.png",
+        "Default/Button_Press.png",
+        "Default/CheckBox_Disable.png",
+        "Default/CheckBoxNode_Disable.png",
+        "di.png",
+        "dibu_01.png",
+        "dibu_02.png",
+        "dibu_03.png",
+        "dibu_04.png",
+        "fb.png",
+        "fb2.png",
+        "gou.png",
+        "kapai.png",
+        "kuang.png",
+        "r1.png",
+        "r10.png",
+        "r2.png",
+        "r3.png",
+        "r4.png",
+        "r5.png",
+        "r6.png",
+        "r7.png",
+        "r8.png",
+        "r9.png",
+        "The R7 Place Race.png",
+        "tw.png",
+        "tw2.png",
+        "uibind.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

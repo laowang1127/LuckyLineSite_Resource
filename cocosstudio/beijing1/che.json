@@ -1,0 +1,302 @@
+{
+  "ID": "af4a65ac-0b25-4822-8ee2-7469c317c9d3",
+  "Version": "2.3.0.0",
+  "Name": "che",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 12601,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/che1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -100.8211,
+              "Y": 39.782
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -135.8211,
+            "RightMargin": 65.8211,
+            "TopMargin": -59.782,
+            "BottomMargin": 19.782,
+            "Tag": 12602,
+            "ActionTag": 424596151,
+            "Size": {
+              "X": 70.0,
+              "Y": 40.0
+            },
+            "Name": "che1_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/che1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -48.3962,
+              "Y": 15.1262
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -83.3962,
+            "RightMargin": 13.3962,
+            "TopMargin": -35.1262,
+            "BottomMargin": -4.8738,
+            "Tag": 12603,
+            "ActionTag": 1507541087,
+            "Size": {
+              "X": 70.0,
+              "Y": 40.0
+            },
+            "Name": "che1_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/che1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 4.8278,
+              "Y": -14.1854
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -30.1722,
+            "RightMargin": -39.8278,
+            "TopMargin": -5.8146,
+            "BottomMargin": -34.1854,
+            "Tag": 12604,
+            "ActionTag": 1776374068,
+            "Size": {
+              "X": 70.0,
+              "Y": 40.0
+            },
+            "Name": "che1_1_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/che1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -137.8733,
+              "Y": 20.5252
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -172.8733,
+            "RightMargin": 102.8733,
+            "TopMargin": -40.5252,
+            "BottomMargin": 0.5252,
+            "Tag": 12609,
+            "ActionTag": 1971564113,
+            "Size": {
+              "X": 70.0,
+              "Y": 40.0
+            },
+            "Name": "che1_1_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/che1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -85.4488,
+              "Y": -4.1308
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -120.4488,
+            "RightMargin": 50.4488,
+            "TopMargin": -15.8692,
+            "BottomMargin": -24.1308,
+            "Tag": 12610,
+            "ActionTag": 436887172,
+            "Size": {
+              "X": 70.0,
+              "Y": 40.0
+            },
+            "Name": "che1_1_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/che1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -32.2254,
+              "Y": -33.4419
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -67.2254,
+            "RightMargin": -2.7746,
+            "TopMargin": 13.4419,
+            "BottomMargin": -53.4419,
+            "Tag": 12611,
+            "ActionTag": 1949425873,
+            "Size": {
+              "X": 70.0,
+              "Y": 40.0
+            },
+            "Name": "che1_1_1_0",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "jianzhu/che1.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

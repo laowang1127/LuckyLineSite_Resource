@@ -1,0 +1,1652 @@
+{
+  "ID": "5d3ea868-a011-4ec5-8131-8c996d81d6ff",
+  "Version": "2.3.0.0",
+  "Name": "caodi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 9072,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 246.3264,
+              "Y": 147.0709
+            },
+            "Scale": {
+              "ScaleX": 6.817,
+              "ScaleY": 6.534
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4927,
+              "Y": 0.4902
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 214.8264,
+            "RightMargin": 222.1736,
+            "TopMargin": 136.4291,
+            "BottomMargin": 130.5709,
+            "Tag": 9073,
+            "ActionTag": -1191804652,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 42.3689,
+              "Y": 127.8236
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0847,
+              "Y": 0.4261
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 10.8689,
+            "RightMargin": 426.1311,
+            "TopMargin": 155.6764,
+            "BottomMargin": 111.3236,
+            "Tag": 9074,
+            "ActionTag": 1310391355,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 68.7037,
+              "Y": 114.4472
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1374,
+              "Y": 0.3815
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 37.2037,
+            "RightMargin": 399.7963,
+            "TopMargin": 169.0528,
+            "BottomMargin": 97.9472,
+            "Tag": 9075,
+            "ActionTag": 881068561,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 95.5966,
+              "Y": 100.9455
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1912,
+              "Y": 0.3365
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 64.0966,
+            "RightMargin": 372.9034,
+            "TopMargin": 182.5545,
+            "BottomMargin": 84.4455,
+            "Tag": 9076,
+            "ActionTag": -1789409078,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 122.6758,
+              "Y": 87.3741
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2454,
+              "Y": 0.2912
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 91.1758,
+            "RightMargin": 345.8242,
+            "TopMargin": 196.1259,
+            "BottomMargin": 70.8741,
+            "Tag": 9077,
+            "ActionTag": -1413030864,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 149.913,
+              "Y": 73.9863
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2998,
+              "Y": 0.2466
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 118.413,
+            "RightMargin": 318.587,
+            "TopMargin": 209.5137,
+            "BottomMargin": 57.4863,
+            "Tag": 9078,
+            "ActionTag": 671601511,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 177.4993,
+              "Y": 60.4269
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.355,
+              "Y": 0.2014
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 145.9993,
+            "RightMargin": 291.0007,
+            "TopMargin": 223.0731,
+            "BottomMargin": 43.9269,
+            "Tag": 9079,
+            "ActionTag": -1601403562,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 205.4347,
+              "Y": 46.2067
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4109,
+              "Y": 0.154
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 173.9347,
+            "RightMargin": 263.0653,
+            "TopMargin": 237.2933,
+            "BottomMargin": 29.7067,
+            "Tag": 9080,
+            "ActionTag": 1060958026,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 228.4821,
+              "Y": 34.8272
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.457,
+              "Y": 0.1161
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 196.9821,
+            "RightMargin": 240.0179,
+            "TopMargin": 248.6728,
+            "BottomMargin": 18.3272,
+            "Tag": 9082,
+            "ActionTag": 345880366,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 259.2114,
+              "Y": 50.5577
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5184,
+              "Y": 0.1685
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 227.7114,
+            "RightMargin": 209.2886,
+            "TopMargin": 232.9423,
+            "BottomMargin": 34.0577,
+            "Tag": 9083,
+            "ActionTag": 1208853596,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 287.1469,
+              "Y": 64.6149
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5743,
+              "Y": 0.2154
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 255.6469,
+            "RightMargin": 181.3531,
+            "TopMargin": 218.8851,
+            "BottomMargin": 48.1149,
+            "Tag": 9084,
+            "ActionTag": 441428535,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 316.8279,
+              "Y": 80.0109
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6337,
+              "Y": 0.2667
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 285.3279,
+            "RightMargin": 151.6721,
+            "TopMargin": 203.4891,
+            "BottomMargin": 63.5109,
+            "Tag": 9085,
+            "ActionTag": -935767466,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.848,
+              "ScaleY": 0.8627
+            },
+            "Position": {
+              "X": 364.9525,
+              "Y": 104.8457
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7299,
+              "Y": 0.3495
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 311.5285,
+            "RightMargin": 125.4715,
+            "TopMargin": 190.6234,
+            "BottomMargin": 76.3766,
+            "Tag": 9086,
+            "ActionTag": 1572219708,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_10",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 367.7458,
+              "Y": 105.1804
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7355,
+              "Y": 0.3506
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 336.2458,
+            "RightMargin": 100.7542,
+            "TopMargin": 178.3196,
+            "BottomMargin": 88.6804,
+            "Tag": 9087,
+            "ActionTag": 690274947,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_11",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 394.2843,
+              "Y": 119.2375
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7886,
+              "Y": 0.3975
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 362.7843,
+            "RightMargin": 74.2157,
+            "TopMargin": 164.2625,
+            "BottomMargin": 102.7375,
+            "Tag": 9088,
+            "ActionTag": -1997762075,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_12",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 414.8864,
+              "Y": 129.9477
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8298,
+              "Y": 0.4332
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 383.3864,
+            "RightMargin": 53.6136,
+            "TopMargin": 153.5523,
+            "BottomMargin": 113.4477,
+            "Tag": 9089,
+            "ActionTag": -1337283831,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_13",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 443.8694,
+              "Y": 144.6745
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8877,
+              "Y": 0.4822
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 412.3694,
+            "RightMargin": 24.6306,
+            "TopMargin": 138.8255,
+            "BottomMargin": 128.1745,
+            "Tag": 9090,
+            "ActionTag": 752360972,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_14",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 453.6469,
+              "Y": 150.0293
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9073,
+              "Y": 0.5001
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 422.1469,
+            "RightMargin": 14.8531,
+            "TopMargin": 133.4707,
+            "BottomMargin": 133.5293,
+            "Tag": 9091,
+            "ActionTag": -2004144862,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_15",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 427.8058,
+              "Y": 163.4172
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8556,
+              "Y": 0.5447
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 396.3058,
+            "RightMargin": 40.6942,
+            "TopMargin": 120.0828,
+            "BottomMargin": 146.9172,
+            "Tag": 9092,
+            "ActionTag": 471540595,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 400.8279,
+              "Y": 176.2224
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8017,
+              "Y": 0.5874
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 369.3279,
+            "RightMargin": 67.6721,
+            "TopMargin": 107.2776,
+            "BottomMargin": 159.7224,
+            "Tag": 9093,
+            "ActionTag": 153562557,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 377.7808,
+              "Y": 187.9366
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7556,
+              "Y": 0.6265
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 346.2808,
+            "RightMargin": 90.7192,
+            "TopMargin": 95.5634,
+            "BottomMargin": 171.4366,
+            "Tag": 9094,
+            "ActionTag": 1902691413,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 353.2402,
+              "Y": 200.9752
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7065,
+              "Y": 0.6699
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 321.7402,
+            "RightMargin": 115.2598,
+            "TopMargin": 82.5248,
+            "BottomMargin": 184.4752,
+            "Tag": 9095,
+            "ActionTag": -916027165,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 327.033,
+              "Y": 213.6979
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6541,
+              "Y": 0.7123
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 295.533,
+            "RightMargin": 141.467,
+            "TopMargin": 69.8021,
+            "BottomMargin": 197.1979,
+            "Tag": 9096,
+            "ActionTag": 920832722,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 308.6544,
+              "Y": 223.1583
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6173,
+              "Y": 0.7439
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 277.1544,
+            "RightMargin": 159.8456,
+            "TopMargin": 60.3417,
+            "BottomMargin": 206.6583,
+            "Tag": 9097,
+            "ActionTag": -1423533746,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 291.6371,
+              "Y": 228.3775
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5833,
+              "Y": 0.7613
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 260.1371,
+            "RightMargin": 176.8629,
+            "TopMargin": 55.1225,
+            "BottomMargin": 211.8775,
+            "Tag": 9098,
+            "ActionTag": 1400344583,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 285.2236,
+              "Y": 234.2492
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5704,
+              "Y": 0.7808
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 253.7236,
+            "RightMargin": 183.2764,
+            "TopMargin": 49.2508,
+            "BottomMargin": 217.7492,
+            "Tag": 9099,
+            "ActionTag": 516015375,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 259.1744,
+              "Y": 247.7994
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5183,
+              "Y": 0.826
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 227.6744,
+            "RightMargin": 209.3256,
+            "TopMargin": 35.7006,
+            "BottomMargin": 231.2994,
+            "Tag": 9100,
+            "ActionTag": -1119531322,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_6_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 231.6069,
+              "Y": 234.4248
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4632,
+              "Y": 0.7814
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 200.1069,
+            "RightMargin": 236.8931,
+            "TopMargin": 49.0752,
+            "BottomMargin": 217.9248,
+            "Tag": 9101,
+            "ActionTag": 948687258,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_6_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 206.0815,
+              "Y": 221.3756
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4122,
+              "Y": 0.7379
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 174.5815,
+            "RightMargin": 262.4185,
+            "TopMargin": 62.1244,
+            "BottomMargin": 204.8756,
+            "Tag": 9102,
+            "ActionTag": 255794237,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_6_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 177.9404,
+              "Y": 206.4197
+            },
+            "Scale": {
+              "ScaleX": -0.8573,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3559,
+              "Y": 0.6881
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 146.4404,
+            "RightMargin": 290.5596,
+            "TopMargin": 77.0803,
+            "BottomMargin": 189.9197,
+            "Tag": 9103,
+            "ActionTag": 829620081,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_6_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 149.0107,
+              "Y": 193.3712
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.298,
+              "Y": 0.6446
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 117.5107,
+            "RightMargin": 319.4893,
+            "TopMargin": 90.1288,
+            "BottomMargin": 176.8712,
+            "Tag": 9104,
+            "ActionTag": -75401185,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_6_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 121.6762,
+              "Y": 179.6202
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2434,
+              "Y": 0.5987
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 90.1762,
+            "RightMargin": 346.8238,
+            "TopMargin": 103.8798,
+            "BottomMargin": 163.1202,
+            "Tag": 9105,
+            "ActionTag": 337735355,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_6_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 91.3862,
+              "Y": 163.962
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1828,
+              "Y": 0.5465
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 59.8862,
+            "RightMargin": 377.1138,
+            "TopMargin": 119.538,
+            "BottomMargin": 147.462,
+            "Tag": 9106,
+            "ActionTag": -247477872,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_6_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 64.1587,
+              "Y": 150.2611
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1283,
+              "Y": 0.5009
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 32.6587,
+            "RightMargin": 404.3413,
+            "TopMargin": 133.2389,
+            "BottomMargin": 133.7611,
+            "Tag": 9107,
+            "ActionTag": 505519534,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_6_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 37.9522,
+              "Y": 136.5602
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0759,
+              "Y": 0.4552
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 6.4522,
+            "RightMargin": 430.5478,
+            "TopMargin": 146.9398,
+            "BottomMargin": 120.0602,
+            "Tag": 9108,
+            "ActionTag": -298824706,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_6_8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 30.8052,
+              "Y": 132.9716
+            },
+            "Scale": {
+              "ScaleX": 0.9687,
+              "ScaleY": 0.9285
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0616,
+              "Y": 0.4432
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -0.6948,
+            "RightMargin": 437.6948,
+            "TopMargin": 150.5284,
+            "BottomMargin": 116.4716,
+            "Tag": 9109,
+            "ActionTag": -306512223,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_2_16_6_9",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 500.0,
+          "Y": 300.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "za/caodi1.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

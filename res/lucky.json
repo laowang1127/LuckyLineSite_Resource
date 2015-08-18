@@ -1,0 +1,707 @@
+{
+  "ID": "f51722b5-0303-473c-89aa-0dca8fb9677f",
+  "Version": "2.3.1.1",
+  "Name": "lucky",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 293,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "luck4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 500.5002,
+              "Y": 307.1616
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5005,
+              "Y": 0.5119
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 166.5002,
+            "RightMargin": 165.4998,
+            "TopMargin": 10.3384,
+            "BottomMargin": 24.6616,
+            "Tag": 6,
+            "ActionTag": -1760190268,
+            "Size": {
+              "X": 668.0,
+              "Y": 565.0
+            },
+            "Name": "luck4_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "luck1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 285.2592,
+              "Y": 406.9367
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2853,
+              "Y": 0.6782
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 225.2592,
+            "RightMargin": 654.7408,
+            "TopMargin": 138.0633,
+            "BottomMargin": 351.9367,
+            "Tag": 8,
+            "ActionTag": 73783190,
+            "Size": {
+              "X": 120.0,
+              "Y": 110.0
+            },
+            "Name": "luck1_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "12",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 511.7709,
+              "Y": 331.3443
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 165,
+              "G": 42,
+              "B": 42
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5118,
+              "Y": 0.5522
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 496.7709,
+            "RightMargin": 473.2291,
+            "TopMargin": 253.6557,
+            "BottomMargin": 316.3443,
+            "Tag": 12,
+            "ActionTag": -2142158956,
+            "Size": {
+              "X": 30.0,
+              "Y": 30.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "luck 12.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "luck.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 208,
+            "Scale9Height": 50,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 504.7679,
+              "Y": 269.6407
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5048,
+              "Y": 0.4494
+            },
+            "PreSize": {
+              "X": 0.238,
+              "Y": 0.12
+            },
+            "LeftMargin": 385.7679,
+            "RightMargin": 376.2321,
+            "TopMargin": 294.3593,
+            "BottomMargin": 233.6407,
+            "Tag": 13,
+            "ActionTag": -1887330511,
+            "Size": {
+              "X": 238.0,
+              "Y": 72.0
+            },
+            "Name": "Button_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "luck1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 424.6023,
+              "Y": 406.9365
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4246,
+              "Y": 0.6782
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 364.6023,
+            "RightMargin": 515.3977,
+            "TopMargin": 138.0635,
+            "BottomMargin": 351.9365,
+            "Tag": 14,
+            "ActionTag": 90744408,
+            "Size": {
+              "X": 120.0,
+              "Y": 110.0
+            },
+            "Name": "luck1_4_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "luck1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 563.9453,
+              "Y": 406.9365
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5639,
+              "Y": 0.6782
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 503.9453,
+            "RightMargin": 376.0547,
+            "TopMargin": 138.0635,
+            "BottomMargin": 351.9365,
+            "Tag": 15,
+            "ActionTag": -745368365,
+            "Size": {
+              "X": 120.0,
+              "Y": 110.0
+            },
+            "Name": "luck1_4_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "luck1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 703.2883,
+              "Y": 406.9367
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7033,
+              "Y": 0.6782
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 643.2883,
+            "RightMargin": 236.7117,
+            "TopMargin": 138.0633,
+            "BottomMargin": 351.9367,
+            "Tag": 16,
+            "ActionTag": 1034526946,
+            "Size": {
+              "X": 120.0,
+              "Y": 110.0
+            },
+            "Name": "luck1_4_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "luck1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 292.4513,
+              "Y": 161.8985
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2925,
+              "Y": 0.2698
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 232.4513,
+            "RightMargin": 647.5487,
+            "TopMargin": 383.1015,
+            "BottomMargin": 106.8985,
+            "Tag": 17,
+            "ActionTag": -994443200,
+            "Size": {
+              "X": 120.0,
+              "Y": 110.0
+            },
+            "Name": "luck1_4_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "luck1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 431.7944,
+              "Y": 161.8981
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4318,
+              "Y": 0.2698
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 371.7944,
+            "RightMargin": 508.2056,
+            "TopMargin": 383.1019,
+            "BottomMargin": 106.8981,
+            "Tag": 18,
+            "ActionTag": -1201227040,
+            "Size": {
+              "X": 120.0,
+              "Y": 110.0
+            },
+            "Name": "luck1_4_0_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "luck1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 571.1372,
+              "Y": 161.8981
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5711,
+              "Y": 0.2698
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 511.1372,
+            "RightMargin": 368.8628,
+            "TopMargin": 383.1019,
+            "BottomMargin": 106.8981,
+            "Tag": 19,
+            "ActionTag": 502007737,
+            "Size": {
+              "X": 120.0,
+              "Y": 110.0
+            },
+            "Name": "luck1_4_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "luck1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 710.4807,
+              "Y": 161.8985
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7105,
+              "Y": 0.2698
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 650.4807,
+            "RightMargin": 229.5193,
+            "TopMargin": 383.1015,
+            "BottomMargin": 106.8985,
+            "Tag": 20,
+            "ActionTag": 1805242865,
+            "Size": {
+              "X": 120.0,
+              "Y": 110.0
+            },
+            "Name": "luck1_4_0_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "luck1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 287.8803,
+              "Y": 288.6407
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2879,
+              "Y": 0.4811
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 227.8803,
+            "RightMargin": 652.1197,
+            "TopMargin": 256.3593,
+            "BottomMargin": 233.6407,
+            "Tag": 21,
+            "ActionTag": 991211301,
+            "Size": {
+              "X": 120.0,
+              "Y": 110.0
+            },
+            "Name": "luck1_4_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "luck1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 703.6829,
+              "Y": 288.6407
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7037,
+              "Y": 0.4811
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 643.6829,
+            "RightMargin": 236.3171,
+            "TopMargin": 256.3593,
+            "BottomMargin": 233.6407,
+            "Tag": 22,
+            "ActionTag": 677162334,
+            "Size": {
+              "X": 120.0,
+              "Y": 110.0
+            },
+            "Name": "luck1_4_3_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "luck2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 285.2592,
+              "Y": 406.9377
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2853,
+              "Y": 0.6782
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 225.2592,
+            "RightMargin": 654.7408,
+            "TopMargin": 138.0623,
+            "BottomMargin": 351.9377,
+            "Tag": 23,
+            "ActionTag": 1682457196,
+            "Size": {
+              "X": 120.0,
+              "Y": 110.0
+            },
+            "Name": "luck2_3_0",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1000.0,
+          "Y": 600.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "luck 12.png",
+        "luck.png",
+        "luck1.png",
+        "luck2.png",
+        "luck4.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

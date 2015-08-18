@@ -1,0 +1,28 @@
+{
+  "ID": "5373f665-1ca2-484b-801d-bfde89202555",
+  "Version": "2.3.2.0",
+  "Name": "donghua",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 703,
+        "Size": {
+          "X": 1000.0,
+          "Y": 600.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

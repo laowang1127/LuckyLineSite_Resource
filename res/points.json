@@ -1,0 +1,198 @@
+{
+  "ID": "ca1a14d0-a7dd-485e-989b-4b17f22dc3be",
+  "Version": "2.3.1.1",
+  "Name": "points",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 294,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "points.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 496.3336,
+              "Y": 298.1122
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4963,
+              "Y": 0.4969
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 187.3336,
+            "RightMargin": 194.6664,
+            "TopMargin": 84.3878,
+            "BottomMargin": 80.6122,
+            "Tag": 295,
+            "ActionTag": 643412833,
+            "Size": {
+              "X": 618.0,
+              "Y": 435.0
+            },
+            "Name": "points_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 55,
+            "ButtonText": "ok",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "an 02.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "an.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 212,
+            "Scale9Height": 28,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 496.7463,
+              "Y": 127.2882
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4967,
+              "Y": 0.2121
+            },
+            "PreSize": {
+              "X": 0.242,
+              "Y": 0.0833
+            },
+            "LeftMargin": 375.7463,
+            "RightMargin": 382.2537,
+            "TopMargin": 447.7118,
+            "BottomMargin": 102.2882,
+            "Tag": 296,
+            "ActionTag": -2075125034,
+            "Size": {
+              "X": 242.0,
+              "Y": 50.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "zimu3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 587.0,
+              "Y": 334.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.587,
+              "Y": 0.5567
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 577.5,
+            "RightMargin": 403.5,
+            "TopMargin": 251.5,
+            "BottomMargin": 319.5,
+            "Tag": 5,
+            "ActionTag": 1537042718,
+            "Size": {
+              "X": 19.0,
+              "Y": 29.0
+            },
+            "Name": "zimu3_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1000.0,
+          "Y": 600.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "an 02.png",
+        "an.png",
+        "Default/Button_Disable.png",
+        "points.png",
+        "zimu3.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

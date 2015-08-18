@@ -1,0 +1,1254 @@
+{
+  "ID": "76a644bd-1da0-4423-8f90-70b5ad20fefd",
+  "Version": "2.3.1.1",
+  "Name": "BuildBouns",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 544,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "dibu_01.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 8,
+            "Scale9Height": 8,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 501.9375,
+              "Y": 300.5053
+            },
+            "Scale": {
+              "ScaleX": 34.6816,
+              "ScaleY": 24.8112
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5019,
+              "Y": 0.5008
+            },
+            "PreSize": {
+              "X": 0.02,
+              "Y": 0.0333
+            },
+            "LeftMargin": 491.9375,
+            "RightMargin": 488.0625,
+            "TopMargin": 289.4947,
+            "BottomMargin": 290.5053,
+            "Tag": 949,
+            "ActionTag": -543097121,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "Button_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "uibind.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "uibind.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 10,
+            "Scale9Width": 12,
+            "Scale9Height": 12,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 500.0094,
+              "Y": 302.7247
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5045
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 0.0094,
+            "RightMargin": -0.0094,
+            "TopMargin": -2.7247,
+            "BottomMargin": 2.7247,
+            "Tag": 168,
+            "ActionTag": -1450854112,
+            "Size": {
+              "X": 1000.0,
+              "Y": 600.0
+            },
+            "Name": "diable_touch",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dibu_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 498.1358,
+              "Y": 302.0654
+            },
+            "Scale": {
+              "ScaleX": 35.9309,
+              "ScaleY": 25.6793
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4981,
+              "Y": 0.5034
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 488.1358,
+            "RightMargin": 491.8642,
+            "TopMargin": 287.9346,
+            "BottomMargin": 292.0654,
+            "Tag": 1883,
+            "ActionTag": 107703270,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "dibu_01_15",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dibu_02.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 498.6711,
+              "Y": 302.6008
+            },
+            "Scale": {
+              "ScaleX": 35.6054,
+              "ScaleY": 25.2049
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4987,
+              "Y": 0.5043
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 488.6711,
+            "RightMargin": 491.3289,
+            "TopMargin": 287.3992,
+            "BottomMargin": 292.6008,
+            "Tag": 1884,
+            "ActionTag": 581849090,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "dibu_02_17",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dibu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 498.1356,
+              "Y": 302.0654
+            },
+            "Scale": {
+              "ScaleX": 35.1074,
+              "ScaleY": 24.8306
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4981,
+              "Y": 0.5034
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 488.1356,
+            "RightMargin": 491.8644,
+            "TopMargin": 287.9346,
+            "BottomMargin": 292.0654,
+            "Tag": 1885,
+            "ActionTag": 1516577387,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "dibu_03_18",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dibu_02.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 353.063,
+              "Y": 317.3961
+            },
+            "Scale": {
+              "ScaleX": 19.3335,
+              "ScaleY": -18.1316
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3531,
+              "Y": 0.529
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 343.063,
+            "RightMargin": 636.937,
+            "TopMargin": 272.6039,
+            "BottomMargin": 307.3961,
+            "Tag": 1815,
+            "ActionTag": -1192648566,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "dibu_02_72",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dibu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.4912,
+              "ScaleY": -0.1025
+            },
+            "Position": {
+              "X": 349.2754,
+              "Y": 267.1246
+            },
+            "Scale": {
+              "ScaleX": 17.8566,
+              "ScaleY": 6.3848
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3493,
+              "Y": 0.4452
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 339.4514,
+            "RightMargin": 640.5486,
+            "TopMargin": 310.8254,
+            "BottomMargin": 269.1746,
+            "Tag": 287,
+            "ActionTag": -2033154267,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "dibu_03_15",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 36,
+            "ButtonText": "share",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "an 02.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "an.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 10,
+            "Scale9Width": 212,
+            "Scale9Height": 30,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 505.0918,
+              "Y": 103.2957
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5051,
+              "Y": 0.1722
+            },
+            "PreSize": {
+              "X": 0.242,
+              "Y": 0.0833
+            },
+            "LeftMargin": 384.0918,
+            "RightMargin": 373.9082,
+            "TopMargin": 471.7043,
+            "BottomMargin": 78.2957,
+            "Tag": 577,
+            "ActionTag": 228350868,
+            "Size": {
+              "X": 242.0,
+              "Y": 50.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "You obtained 1 point",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 354.4029,
+              "Y": 348.0895
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 43,
+              "G": 81,
+              "B": 88
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3544,
+              "Y": 0.5801
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 204.4029,
+            "RightMargin": 495.5971,
+            "TopMargin": 236.9105,
+            "BottomMargin": 333.0895,
+            "Tag": 179,
+            "ActionTag": -1865774037,
+            "Size": {
+              "X": 300.0,
+              "Y": 30.0
+            },
+            "Name": "Text_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 18,
+            "LabelText": "Tips:You need to share this game or \nyour invitation code to your Facebook\n/Twitter account in order to earn 1 \npoint. You have 5 chances per week.",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 341.6056,
+              "Y": 191.9354
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 43,
+              "G": 81,
+              "B": 88
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3416,
+              "Y": 0.3199
+            },
+            "PreSize": {
+              "X": 0.416,
+              "Y": 0.1333
+            },
+            "LeftMargin": 175.1056,
+            "RightMargin": 491.8944,
+            "TopMargin": 372.0646,
+            "BottomMargin": 155.9354,
+            "Tag": 1669,
+            "ActionTag": -1626408032,
+            "Size": {
+              "X": 333.0,
+              "Y": 72.0
+            },
+            "Name": "Text_3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "biaoti005.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.5335,
+              "Y": 448.094
+            },
+            "Scale": {
+              "ScaleX": 0.6627,
+              "ScaleY": 0.7357
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3505,
+              "Y": 0.7468
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 97.0335,
+            "RightMargin": 395.9665,
+            "TopMargin": 129.906,
+            "BottomMargin": 426.094,
+            "Tag": 1817,
+            "ActionTag": -537923687,
+            "Size": {
+              "X": 507.0,
+              "Y": 44.0
+            },
+            "Name": "biaoti005_74",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "guagnbi.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guagnbi.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 10,
+            "Scale9Width": 11,
+            "Scale9Height": 11,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 828.2872,
+              "Y": 530.9337
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8283,
+              "Y": 0.8849
+            },
+            "PreSize": {
+              "X": 0.031,
+              "Y": 0.0517
+            },
+            "LeftMargin": 812.7872,
+            "RightMargin": 156.2128,
+            "TopMargin": 53.5663,
+            "BottomMargin": 515.4337,
+            "Tag": 111,
+            "ActionTag": -1573190537,
+            "Size": {
+              "X": 31.0,
+              "Y": 31.0
+            },
+            "Name": "btn_close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "guanggao01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 691.2061,
+              "Y": 316.554
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6912,
+              "Y": 0.5276
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 552.7061,
+            "RightMargin": 170.2939,
+            "TopMargin": 101.946,
+            "BottomMargin": 135.054,
+            "Tag": 111,
+            "ActionTag": 334614532,
+            "Size": {
+              "X": 277.0,
+              "Y": 363.0
+            },
+            "Name": "guanggao1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "guanggao02.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 691.2061,
+              "Y": 316.554
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6912,
+              "Y": 0.5276
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 552.7061,
+            "RightMargin": 170.2939,
+            "TopMargin": 101.946,
+            "BottomMargin": 135.054,
+            "Tag": 112,
+            "ActionTag": -1351334847,
+            "Size": {
+              "X": 277.0,
+              "Y": 363.0
+            },
+            "Name": "guanggao2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "guanggao03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 691.2061,
+              "Y": 316.554
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6912,
+              "Y": 0.5276
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 552.7061,
+            "RightMargin": 170.2939,
+            "TopMargin": 101.946,
+            "BottomMargin": 135.054,
+            "Tag": 113,
+            "ActionTag": -1719831494,
+            "Size": {
+              "X": 277.0,
+              "Y": 363.0
+            },
+            "Name": "guanggao3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "guanggao04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 691.2061,
+              "Y": 316.554
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6912,
+              "Y": 0.5276
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 552.7061,
+            "RightMargin": 170.2939,
+            "TopMargin": 101.946,
+            "BottomMargin": 135.054,
+            "Tag": 114,
+            "ActionTag": -1679407041,
+            "Size": {
+              "X": 277.0,
+              "Y": 363.0
+            },
+            "Name": "guanggao4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "guanggao05.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 691.2061,
+              "Y": 316.554
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6912,
+              "Y": 0.5276
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 552.7061,
+            "RightMargin": 170.2939,
+            "TopMargin": 101.946,
+            "BottomMargin": 135.054,
+            "Tag": 115,
+            "ActionTag": 1655803013,
+            "Size": {
+              "X": 277.0,
+              "Y": 363.0
+            },
+            "Name": "guanggao5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "guanggao06.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 691.1074,
+              "Y": 316.7572
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6911,
+              "Y": 0.5279
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 552.6074,
+            "RightMargin": 170.3926,
+            "TopMargin": 101.7428,
+            "BottomMargin": 135.2572,
+            "Tag": 116,
+            "ActionTag": 992561391,
+            "Size": {
+              "X": 277.0,
+              "Y": 363.0
+            },
+            "Name": "guanggao6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "guanggao07.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 691.1074,
+              "Y": 316.7572
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6911,
+              "Y": 0.5279
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 552.6074,
+            "RightMargin": 170.3926,
+            "TopMargin": 101.7428,
+            "BottomMargin": 135.2572,
+            "Tag": 117,
+            "ActionTag": -1802461412,
+            "Size": {
+              "X": 277.0,
+              "Y": 363.0
+            },
+            "Name": "guanggao7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "guanggao08.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 691.1074,
+              "Y": 316.7572
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6911,
+              "Y": 0.5279
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 552.6074,
+            "RightMargin": 170.3926,
+            "TopMargin": 101.7428,
+            "BottomMargin": 135.2572,
+            "Tag": 118,
+            "ActionTag": 544119802,
+            "Size": {
+              "X": 277.0,
+              "Y": 363.0
+            },
+            "Name": "guanggao8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "guanggao09.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 691.1074,
+              "Y": 316.7572
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6911,
+              "Y": 0.5279
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 552.6074,
+            "RightMargin": 170.3926,
+            "TopMargin": 101.7428,
+            "BottomMargin": 135.2572,
+            "Tag": 119,
+            "ActionTag": -638935126,
+            "Size": {
+              "X": 277.0,
+              "Y": 363.0
+            },
+            "Name": "guanggao9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "guanggao10.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 691.1074,
+              "Y": 316.7572
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6911,
+              "Y": 0.5279
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 552.6074,
+            "RightMargin": 170.3926,
+            "TopMargin": 101.7428,
+            "BottomMargin": 135.2572,
+            "Tag": 120,
+            "ActionTag": -1039648366,
+            "Size": {
+              "X": 277.0,
+              "Y": 363.0
+            },
+            "Name": "guanggao10",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "uibind.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "uibind.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "uibind.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 10,
+            "Scale9Width": 12,
+            "Scale9Height": 12,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 691.3065,
+              "Y": 315.9329
+            },
+            "Scale": {
+              "ScaleX": 8.5763,
+              "ScaleY": 11.3175
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6913,
+              "Y": 0.5266
+            },
+            "PreSize": {
+              "X": 0.032,
+              "Y": 0.0533
+            },
+            "LeftMargin": 675.3065,
+            "RightMargin": 292.6935,
+            "TopMargin": 268.0671,
+            "BottomMargin": 299.9329,
+            "Tag": 185,
+            "ActionTag": 781302797,
+            "Size": {
+              "X": 32.0,
+              "Y": 32.0
+            },
+            "Name": "Button_7",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1000.0,
+          "Y": 600.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "an 02.png",
+        "an.png",
+        "biaoti005.png",
+        "Default/Button_Disable.png",
+        "Default/Button_Press.png",
+        "dibu_01.png",
+        "dibu_02.png",
+        "dibu_03.png",
+        "guagnbi.png",
+        "guanggao01.png",
+        "guanggao02.png",
+        "guanggao03.png",
+        "guanggao04.png",
+        "guanggao05.png",
+        "guanggao06.png",
+        "guanggao07.png",
+        "guanggao08.png",
+        "guanggao09.png",
+        "guanggao10.png",
+        "uibind.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

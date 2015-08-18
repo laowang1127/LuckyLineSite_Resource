@@ -1,0 +1,816 @@
+{
+  "ID": "e2baf510-fa26-4b90-b046-9bae9f3279e2",
+  "Version": "2.3.1.1",
+  "Name": "HUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 848,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "xiaolaba.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 496.983,
+              "Y": 50.5007
+            },
+            "Scale": {
+              "ScaleX": 1.0457,
+              "ScaleY": 0.833
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.497,
+              "Y": 0.0842
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 61.983,
+            "RightMargin": 68.017,
+            "TopMargin": 536.4993,
+            "BottomMargin": 37.5007,
+            "Tag": 63,
+            "ActionTag": -1136678102,
+            "Size": {
+              "X": 870.0,
+              "Y": 26.0
+            },
+            "Name": "xiaolaba_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "daohang_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 986.5408,
+              "Y": 16.4726
+            },
+            "Scale": {
+              "ScaleX": 0.1905,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9865,
+              "Y": 0.0275
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 917.0408,
+            "RightMargin": -56.0408,
+            "TopMargin": 567.0274,
+            "BottomMargin": -0.0274,
+            "Tag": 815,
+            "ActionTag": -1949170611,
+            "Size": {
+              "X": 139.0,
+              "Y": 33.0
+            },
+            "Name": "daohang_01_2_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "daohang_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 486.6462,
+              "Y": 17.6409
+            },
+            "Scale": {
+              "ScaleX": 7.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4866,
+              "Y": 0.0294
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 417.1462,
+            "RightMargin": 443.8538,
+            "TopMargin": 565.8591,
+            "BottomMargin": 1.1409,
+            "Tag": 814,
+            "ActionTag": 308702764,
+            "Size": {
+              "X": 139.0,
+              "Y": 33.0
+            },
+            "Name": "daohang_01_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 16,
+            "ButtonText": "",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "anliuer02.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "anliuer01.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 10,
+            "Scale9Width": 75,
+            "Scale9Height": 13,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 260.4621,
+              "Y": 583.5302
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2605,
+              "Y": 0.9726
+            },
+            "PreSize": {
+              "X": 0.105,
+              "Y": 0.055
+            },
+            "LeftMargin": 207.9621,
+            "RightMargin": 687.0379,
+            "TopMargin": -0.0302,
+            "BottomMargin": 567.0302,
+            "Tag": 849,
+            "ActionTag": -1485207345,
+            "Size": {
+              "X": 105.0,
+              "Y": 33.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 16,
+            "ButtonText": "",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "anliusan02.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "anliusan01.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 10,
+            "Scale9Width": 166,
+            "Scale9Height": 13,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 411.1848,
+              "Y": 583.5302
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4112,
+              "Y": 0.9726
+            },
+            "PreSize": {
+              "X": 0.196,
+              "Y": 0.055
+            },
+            "LeftMargin": 313.1848,
+            "RightMargin": 490.8152,
+            "TopMargin": -0.0302,
+            "BottomMargin": 567.0302,
+            "Tag": 851,
+            "ActionTag": 934297146,
+            "Size": {
+              "X": 196.0,
+              "Y": 33.0
+            },
+            "Name": "Button_3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "anliuyi02.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "anliuyi01.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 10,
+            "Scale9Width": 166,
+            "Scale9Height": 13,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 109.7393,
+              "Y": 583.5302
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1097,
+              "Y": 0.9726
+            },
+            "PreSize": {
+              "X": 0.196,
+              "Y": 0.055
+            },
+            "LeftMargin": 11.7393,
+            "RightMargin": 792.2607,
+            "TopMargin": -0.0302,
+            "BottomMargin": 567.0302,
+            "Tag": 112,
+            "ActionTag": 834543951,
+            "Size": {
+              "X": 196.0,
+              "Y": 33.0
+            },
+            "Name": "Button_1_0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 16,
+            "ButtonText": "",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "anliusi02.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "anliusi01.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 10,
+            "Scale9Width": 82,
+            "Scale9Height": 13,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 934.0767,
+              "Y": 583.5302
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9341,
+              "Y": 0.9726
+            },
+            "PreSize": {
+              "X": 0.112,
+              "Y": 0.055
+            },
+            "LeftMargin": 878.0767,
+            "RightMargin": 9.9233,
+            "TopMargin": -0.0302,
+            "BottomMargin": 567.0302,
+            "Tag": 113,
+            "ActionTag": 1589432505,
+            "Size": {
+              "X": 112.0,
+              "Y": 33.0
+            },
+            "Name": "Button_3_0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "BackGroundData": {
+              "Type": "Normal",
+              "Path": "gundong1.png",
+              "Plist": ""
+            },
+            "ProgressBarData": {
+              "Type": "Normal",
+              "Path": "gundong2.png",
+              "Plist": ""
+            },
+            "BallNormalData": {
+              "Type": "Normal",
+              "Path": "gundong3.png",
+              "Plist": ""
+            },
+            "BallPressedData": {
+              "Type": "Default",
+              "Path": "Default/SliderNode_Press.png",
+              "Plist": ""
+            },
+            "BallDisabledData": {
+              "Type": "Default",
+              "Path": "Default/SliderNode_Disable.png",
+              "Plist": ""
+            },
+            "PercentInfo": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 499.9433,
+              "Y": 14.1414
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4999,
+              "Y": 0.0236
+            },
+            "PreSize": {
+              "X": 0.957,
+              "Y": 0.0333
+            },
+            "LeftMargin": 21.4433,
+            "RightMargin": 21.5567,
+            "TopMargin": 575.8586,
+            "BottomMargin": 4.1414,
+            "Tag": 71,
+            "ActionTag": -360841689,
+            "Size": {
+              "X": 957.0,
+              "Y": 20.0
+            },
+            "Name": "Slider_1",
+            "ctype": "SliderObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "11111111111111111111111111111111111111111111111111111111111111111111111111",
+            "HorizontalAlignmentType": "HT_Right",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 489.6495,
+              "Y": 50.5011
+            },
+            "Scale": {
+              "ScaleX": 0.9642,
+              "ScaleY": 0.7313
+            },
+            "CColor": {
+              "R": 0,
+              "B": 237
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4896,
+              "Y": 0.0842
+            },
+            "PreSize": {
+              "X": 0.888,
+              "Y": 0.04
+            },
+            "LeftMargin": 45.6495,
+            "RightMargin": 66.3505,
+            "TopMargin": 537.4989,
+            "BottomMargin": 38.5011,
+            "Tag": 679,
+            "ActionTag": 767368674,
+            "Size": {
+              "X": 888.0,
+              "Y": 24.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "anniuliu02.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "anniuliu01.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 10,
+            "Scale9Width": 82,
+            "Scale9Height": 13,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 565.4077,
+              "Y": 583.5302
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5654,
+              "Y": 0.9726
+            },
+            "PreSize": {
+              "X": 0.112,
+              "Y": 0.055
+            },
+            "LeftMargin": 509.4077,
+            "RightMargin": 378.5923,
+            "TopMargin": -0.0302,
+            "BottomMargin": 567.0302,
+            "Tag": 61,
+            "ActionTag": -1406585754,
+            "Size": {
+              "X": 112.0,
+              "Y": 33.0
+            },
+            "Name": "Button_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "anniuwu02.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "anniuwu01.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 10,
+            "Scale9Width": 98,
+            "Scale9Height": 13,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 813.853,
+              "Y": 583.5302
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8139,
+              "Y": 0.9726
+            },
+            "PreSize": {
+              "X": 0.128,
+              "Y": 0.055
+            },
+            "LeftMargin": 749.853,
+            "RightMargin": 122.147,
+            "TopMargin": -0.0302,
+            "BottomMargin": 567.0302,
+            "Tag": 62,
+            "ActionTag": -515832871,
+            "Size": {
+              "X": 128.0,
+              "Y": 33.0
+            },
+            "Name": "Button_4",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "anliuqi02.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "anliuqi01.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 10,
+            "Scale9Width": 98,
+            "Scale9Height": 13,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.7174,
+              "ScaleY": 0.3944
+            },
+            "Position": {
+              "X": 713.4588,
+              "Y": 580.044
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7135,
+              "Y": 0.9667
+            },
+            "PreSize": {
+              "X": 0.128,
+              "Y": 0.055
+            },
+            "LeftMargin": 621.6316,
+            "RightMargin": 250.3684,
+            "TopMargin": -0.0288,
+            "BottomMargin": 567.0288,
+            "Tag": 52,
+            "ActionTag": -1358196255,
+            "Size": {
+              "X": 128.0,
+              "Y": 33.0
+            },
+            "Name": "Button_lucky",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1000.0,
+          "Y": 600.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "anliuer01.png",
+        "anliuer02.png",
+        "anliuqi01.png",
+        "anliuqi02.png",
+        "anliusan01.png",
+        "anliusan02.png",
+        "anliusi01.png",
+        "anliusi02.png",
+        "anliuyi01.png",
+        "anliuyi02.png",
+        "anniuliu01.png",
+        "anniuliu02.png",
+        "anniuwu01.png",
+        "anniuwu02.png",
+        "daohang_01.png",
+        "Default/Button_Disable.png",
+        "Default/SliderNode_Disable.png",
+        "Default/SliderNode_Press.png",
+        "gundong1.png",
+        "gundong2.png",
+        "gundong3.png",
+        "xiaolaba.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

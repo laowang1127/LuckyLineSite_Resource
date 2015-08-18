@@ -1,0 +1,1032 @@
+{
+  "ID": "a01f7c4c-1534-4efb-b356-1a772cd3014d",
+  "Version": "2.3.0.0",
+  "Name": "hu1",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1296,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_10.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 219.7457,
+              "Y": 118.0704
+            },
+            "Scale": {
+              "ScaleX": 6.3224,
+              "ScaleY": 5.4739
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7112,
+              "Y": 0.7028
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 209.7457,
+            "RightMargin": 79.2543,
+            "TopMargin": 44.9296,
+            "BottomMargin": 113.0704,
+            "Tag": 1316,
+            "ActionTag": -731442522,
+            "Size": {
+              "X": 20.0,
+              "Y": 10.0
+            },
+            "Name": "Sprite_13_0_1_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_10.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 87.2293,
+              "Y": 117.4958
+            },
+            "Scale": {
+              "ScaleX": 6.3224,
+              "ScaleY": 5.4739
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2823,
+              "Y": 0.6994
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 77.2293,
+            "RightMargin": 211.7707,
+            "TopMargin": 45.5042,
+            "BottomMargin": 112.4958,
+            "Tag": 1317,
+            "ActionTag": -1677421290,
+            "Size": {
+              "X": 20.0,
+              "Y": 10.0
+            },
+            "Name": "Sprite_13",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 22.8051,
+              "Y": 144.7404
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0738,
+              "Y": 0.8615
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 0.8051,
+            "RightMargin": 264.1949,
+            "TopMargin": 2.7596,
+            "BottomMargin": 124.2404,
+            "Tag": 1318,
+            "ActionTag": -1833134903,
+            "Size": {
+              "X": 44.0,
+              "Y": 41.0
+            },
+            "Name": "Sprite_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_02.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 154.4846,
+              "Y": 144.3145
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.859
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 44.9846,
+            "RightMargin": 45.0154,
+            "TopMargin": 3.1855,
+            "BottomMargin": 123.8145,
+            "Tag": 1319,
+            "ActionTag": 1604367778,
+            "Size": {
+              "X": 219.0,
+              "Y": 41.0
+            },
+            "Name": "Sprite_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 286.6125,
+              "Y": 143.9696
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9275,
+              "Y": 0.857
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 263.6125,
+            "RightMargin": -0.6125,
+            "TopMargin": 3.5304,
+            "BottomMargin": 123.4696,
+            "Tag": 1320,
+            "ActionTag": 1539672222,
+            "Size": {
+              "X": 46.0,
+              "Y": 41.0
+            },
+            "Name": "Sprite_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 23.091,
+              "Y": 79.7484
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0747,
+              "Y": 0.4747
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1.091,
+            "RightMargin": 263.909,
+            "TopMargin": 43.2516,
+            "BottomMargin": 34.7484,
+            "Tag": 1321,
+            "ActionTag": -654523035,
+            "Size": {
+              "X": 44.0,
+              "Y": 90.0
+            },
+            "Name": "Sprite_8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_06.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 284.6724,
+              "Y": 79.6598
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9213,
+              "Y": 0.4742
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 261.6724,
+            "RightMargin": 1.3276,
+            "TopMargin": 43.3402,
+            "BottomMargin": 34.6598,
+            "Tag": 1322,
+            "ActionTag": 1060939512,
+            "Size": {
+              "X": 46.0,
+              "Y": 90.0
+            },
+            "Name": "Sprite_9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_07.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 23.1896,
+              "Y": 17.2985
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.075,
+              "Y": 0.103
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1.1896,
+            "RightMargin": 263.8104,
+            "TopMargin": 132.2015,
+            "BottomMargin": -1.2015,
+            "Tag": 1323,
+            "ActionTag": -83151402,
+            "Size": {
+              "X": 44.0,
+              "Y": 37.0
+            },
+            "Name": "Sprite_10",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_08.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 154.2823,
+              "Y": 17.1207
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4993,
+              "Y": 0.1019
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 44.7823,
+            "RightMargin": 45.2177,
+            "TopMargin": 132.3793,
+            "BottomMargin": -1.3793,
+            "Tag": 1324,
+            "ActionTag": 2123054940,
+            "Size": {
+              "X": 219.0,
+              "Y": 37.0
+            },
+            "Name": "Sprite_11",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_09.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 285.8807,
+              "Y": 17.274
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9252,
+              "Y": 0.1028
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 262.8807,
+            "RightMargin": 0.1193,
+            "TopMargin": 132.226,
+            "BottomMargin": -1.226,
+            "Tag": 1325,
+            "ActionTag": 100315686,
+            "Size": {
+              "X": 46.0,
+              "Y": 37.0
+            },
+            "Name": "Sprite_12",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_10.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 97.7134,
+              "Y": 96.8261
+            },
+            "Scale": {
+              "ScaleX": 6.3224,
+              "ScaleY": 5.4739
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3162,
+              "Y": 0.5763
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 87.7134,
+            "RightMargin": 201.2866,
+            "TopMargin": 66.1739,
+            "BottomMargin": 91.8261,
+            "Tag": 1326,
+            "ActionTag": -691157468,
+            "Size": {
+              "X": 20.0,
+              "Y": 10.0
+            },
+            "Name": "Sprite_13_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_10.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 89.2841,
+              "Y": 47.0604
+            },
+            "Scale": {
+              "ScaleX": 6.3224,
+              "ScaleY": 5.4739
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2889,
+              "Y": 0.2801
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 79.2841,
+            "RightMargin": 209.7159,
+            "TopMargin": 115.9396,
+            "BottomMargin": 42.0604,
+            "Tag": 1327,
+            "ActionTag": 1252947006,
+            "Size": {
+              "X": 20.0,
+              "Y": 10.0
+            },
+            "Name": "Sprite_13_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_10.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 74.2491,
+              "Y": 80.0316
+            },
+            "Scale": {
+              "ScaleX": 6.3224,
+              "ScaleY": 5.4739
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2403,
+              "Y": 0.4764
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 64.2491,
+            "RightMargin": 224.7509,
+            "TopMargin": 82.9684,
+            "BottomMargin": 75.0316,
+            "Tag": 1328,
+            "ActionTag": 1892705546,
+            "Size": {
+              "X": 20.0,
+              "Y": 10.0
+            },
+            "Name": "Sprite_13_0_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_10.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 149.6589,
+              "Y": 88.3926
+            },
+            "Scale": {
+              "ScaleX": 12.917,
+              "ScaleY": 13.1354
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4843,
+              "Y": 0.5261
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 139.6589,
+            "RightMargin": 149.3411,
+            "TopMargin": 74.6074,
+            "BottomMargin": 83.3926,
+            "Tag": 1329,
+            "ActionTag": 1946362668,
+            "Size": {
+              "X": 20.0,
+              "Y": 10.0
+            },
+            "Name": "Sprite_13_0_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_10.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 229.443,
+              "Y": 99.6428
+            },
+            "Scale": {
+              "ScaleX": 6.3224,
+              "ScaleY": 5.4739
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7425,
+              "Y": 0.5931
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 219.443,
+            "RightMargin": 69.557,
+            "TopMargin": 63.3572,
+            "BottomMargin": 94.6428,
+            "Tag": 1330,
+            "ActionTag": 1699147449,
+            "Size": {
+              "X": 20.0,
+              "Y": 10.0
+            },
+            "Name": "Sprite_13_0_1_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_10.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 225.0775,
+              "Y": 76.8503
+            },
+            "Scale": {
+              "ScaleX": 6.3224,
+              "ScaleY": 5.4739
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7284,
+              "Y": 0.4574
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 215.0775,
+            "RightMargin": 73.9225,
+            "TopMargin": 86.1497,
+            "BottomMargin": 71.8503,
+            "Tag": 1331,
+            "ActionTag": 1733338554,
+            "Size": {
+              "X": 20.0,
+              "Y": 10.0
+            },
+            "Name": "Sprite_13_0_1_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_10.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 215.3777,
+              "Y": 58.4221
+            },
+            "Scale": {
+              "ScaleX": 6.3224,
+              "ScaleY": 5.4739
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.697,
+              "Y": 0.3478
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 205.3777,
+            "RightMargin": 83.6223,
+            "TopMargin": 104.5779,
+            "BottomMargin": 53.4221,
+            "Tag": 1332,
+            "ActionTag": -604385366,
+            "Size": {
+              "X": 20.0,
+              "Y": 10.0
+            },
+            "Name": "Sprite_13_0_1_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "huatai/s-13_10.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 227.0136,
+              "Y": 49.6921
+            },
+            "Scale": {
+              "ScaleX": 6.3224,
+              "ScaleY": 5.4739
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7347,
+              "Y": 0.2958
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 217.0136,
+            "RightMargin": 71.9864,
+            "TopMargin": 113.3079,
+            "BottomMargin": 44.6921,
+            "Tag": 1333,
+            "ActionTag": 1161241512,
+            "Size": {
+              "X": 20.0,
+              "Y": 10.0
+            },
+            "Name": "Sprite_13_0_1_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/shui.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 46.1772,
+              "Y": 76.9198
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1494,
+              "Y": 0.4579
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 10.1772,
+            "RightMargin": 226.8228,
+            "TopMargin": 68.5802,
+            "BottomMargin": 54.4198,
+            "Tag": 5361,
+            "ActionTag": 1222337165,
+            "Size": {
+              "X": 72.0,
+              "Y": 45.0
+            },
+            "Name": "shui_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/shui.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 168.7736,
+              "Y": 20.4638
+            },
+            "Scale": {
+              "ScaleX": 0.9125,
+              "ScaleY": 0.685
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5462,
+              "Y": 0.1218
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 132.7736,
+            "RightMargin": 104.2264,
+            "TopMargin": 125.0362,
+            "BottomMargin": -2.0362,
+            "Tag": 5362,
+            "ActionTag": 604321984,
+            "Size": {
+              "X": 72.0,
+              "Y": 45.0
+            },
+            "Name": "shui_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/touying.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 41.4524,
+              "Y": 104.4786
+            },
+            "Scale": {
+              "ScaleX": 0.6786,
+              "ScaleY": 0.4167
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1342,
+              "Y": 0.6219
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 16.9524,
+            "RightMargin": 243.0476,
+            "TopMargin": 50.0214,
+            "BottomMargin": 90.9786,
+            "Tag": 5363,
+            "ActionTag": -1491301405,
+            "Size": {
+              "X": 49.0,
+              "Y": 27.0
+            },
+            "Name": "touying_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/touying.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 57.7515,
+              "Y": 121.2501
+            },
+            "Scale": {
+              "ScaleX": 0.3894,
+              "ScaleY": 0.1834
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1869,
+              "Y": 0.7217
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 33.2515,
+            "RightMargin": 226.7485,
+            "TopMargin": 33.2499,
+            "BottomMargin": 107.7501,
+            "Tag": 5364,
+            "ActionTag": 791610712,
+            "Size": {
+              "X": 49.0,
+              "Y": 27.0
+            },
+            "Name": "touying_3_0",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 309.0,
+          "Y": 168.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "za/touying.png",
+        "za/shui.png",
+        "huatai/s-13_07.png",
+        "huatai/s-13_03.png",
+        "huatai/s-13_10.png",
+        "huatai/s-13_09.png",
+        "huatai/s-13_08.png",
+        "huatai/s-13_06.png",
+        "huatai/s-13_04.png",
+        "huatai/s-13_02.png",
+        "huatai/s-13_01.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

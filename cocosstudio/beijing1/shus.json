@@ -1,0 +1,572 @@
+{
+  "ID": "943b2211-f532-4b66-877e-fc9b10f5b2ca",
+  "Version": "2.3.0.0",
+  "Name": "shus",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 67701,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -175.6558,
+              "Y": 26.3745
+            },
+            "Scale": {
+              "ScaleX": 0.9139,
+              "ScaleY": 0.9139
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -207.6558,
+            "RightMargin": 143.6558,
+            "TopMargin": -83.3745,
+            "BottomMargin": -30.6255,
+            "Tag": 67702,
+            "ActionTag": -2033165595,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -134.8102,
+              "Y": 4.8618
+            },
+            "Scale": {
+              "ScaleX": 0.9139,
+              "ScaleY": 0.9139
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -166.8102,
+            "RightMargin": 102.8102,
+            "TopMargin": -61.8618,
+            "BottomMargin": -52.1382,
+            "Tag": 67703,
+            "ActionTag": 436185186,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -87.6362,
+              "Y": -20.6591
+            },
+            "Scale": {
+              "ScaleX": 0.9139,
+              "ScaleY": 0.9139
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -119.6362,
+            "RightMargin": 55.6362,
+            "TopMargin": -36.3409,
+            "BottomMargin": -77.6591,
+            "Tag": 67704,
+            "ActionTag": -1351487853,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_1_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -40.4618,
+              "Y": -46.9535
+            },
+            "Scale": {
+              "ScaleX": 0.9139,
+              "ScaleY": 0.9139
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -72.4618,
+            "RightMargin": 8.4618,
+            "TopMargin": -10.0465,
+            "BottomMargin": -103.9535,
+            "Tag": 67705,
+            "ActionTag": 668196957,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_1_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 5.9358,
+              "Y": -79.4352
+            },
+            "Scale": {
+              "ScaleX": 0.9139,
+              "ScaleY": 0.9139
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -26.0642,
+            "RightMargin": -37.9358,
+            "TopMargin": 22.4352,
+            "BottomMargin": -136.4352,
+            "Tag": 67706,
+            "ActionTag": -890935107,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_1_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 51.5626,
+              "Y": -108.8228
+            },
+            "Scale": {
+              "ScaleX": 0.9139,
+              "ScaleY": 0.9139
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 19.5626,
+            "RightMargin": -83.5626,
+            "TopMargin": 51.8228,
+            "BottomMargin": -165.8228,
+            "Tag": 67707,
+            "ActionTag": -1524900854,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_1_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -229.9348,
+              "Y": -6.7383
+            },
+            "Scale": {
+              "ScaleX": 0.9139,
+              "ScaleY": 0.9139
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -261.9348,
+            "RightMargin": 197.9348,
+            "TopMargin": -50.2617,
+            "BottomMargin": -63.7383,
+            "Tag": 67709,
+            "ActionTag": -143261286,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_1_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -189.0893,
+              "Y": -28.2515
+            },
+            "Scale": {
+              "ScaleX": 0.9139,
+              "ScaleY": 0.9139
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -221.0893,
+            "RightMargin": 157.0893,
+            "TopMargin": -28.7485,
+            "BottomMargin": -85.2515,
+            "Tag": 67710,
+            "ActionTag": -2125284804,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_1_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -141.9149,
+              "Y": -53.7721
+            },
+            "Scale": {
+              "ScaleX": 0.9139,
+              "ScaleY": 0.9139
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -173.9149,
+            "RightMargin": 109.9149,
+            "TopMargin": -3.2279,
+            "BottomMargin": -110.7721,
+            "Tag": 67711,
+            "ActionTag": 585281944,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_1_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -94.7408,
+              "Y": -80.0667
+            },
+            "Scale": {
+              "ScaleX": 0.9139,
+              "ScaleY": 0.9139
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -126.7408,
+            "RightMargin": 62.7408,
+            "TopMargin": 23.0667,
+            "BottomMargin": -137.0667,
+            "Tag": 67712,
+            "ActionTag": -1087279395,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_1_2_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -48.3445,
+              "Y": -112.5484
+            },
+            "Scale": {
+              "ScaleX": 0.9139,
+              "ScaleY": 0.9139
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -80.3445,
+            "RightMargin": 16.3445,
+            "TopMargin": 55.5484,
+            "BottomMargin": -169.5484,
+            "Tag": 67713,
+            "ActionTag": 820692428,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_1_3_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -2.7178,
+              "Y": -141.9361
+            },
+            "Scale": {
+              "ScaleX": 0.9139,
+              "ScaleY": 0.9139
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -34.7178,
+            "RightMargin": -29.2822,
+            "TopMargin": 84.9361,
+            "BottomMargin": -198.9361,
+            "Tag": 67714,
+            "ActionTag": -582955608,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_1_4_0",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "shu/shu5.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

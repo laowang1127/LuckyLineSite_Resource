@@ -1,0 +1,347 @@
+{
+  "ID": "8b22db54-7c3a-4af4-a5d3-1a247d616bd3",
+  "Version": "2.3.0.0",
+  "Name": "luxin",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3431,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lu/lu2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -618.6227,
+              "Y": -0.3958
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -699.1227,
+            "RightMargin": 538.1227,
+            "TopMargin": -152.6042,
+            "BottomMargin": -153.3958,
+            "Tag": 3432,
+            "ActionTag": 1216933318,
+            "Size": {
+              "X": 161.0,
+              "Y": 306.0
+            },
+            "Name": "lu2_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lu/lu2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -459.2651,
+              "Y": 82.4692
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -539.7651,
+            "RightMargin": 378.7651,
+            "TopMargin": -235.4692,
+            "BottomMargin": -70.5308,
+            "Tag": 3433,
+            "ActionTag": -700216711,
+            "Size": {
+              "X": 161.0,
+              "Y": 306.0
+            },
+            "Name": "lu2_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lu/lu2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -307.0334,
+              "Y": 161.9304
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -387.5334,
+            "RightMargin": 226.5334,
+            "TopMargin": -314.9304,
+            "BottomMargin": 8.9304,
+            "Tag": 3434,
+            "ActionTag": 962960423,
+            "Size": {
+              "X": 161.0,
+              "Y": 306.0
+            },
+            "Name": "lu2_1_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lu/lu2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -148.513,
+              "Y": 244.0669
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -229.013,
+            "RightMargin": 68.013,
+            "TopMargin": -397.0669,
+            "BottomMargin": 91.0669,
+            "Tag": 3435,
+            "ActionTag": -1777303024,
+            "Size": {
+              "X": 161.0,
+              "Y": 306.0
+            },
+            "Name": "lu2_1_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lu/lu2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 5.749,
+              "Y": 324.4855
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -74.751,
+            "RightMargin": -86.249,
+            "TopMargin": -477.4855,
+            "BottomMargin": 171.4855,
+            "Tag": 3436,
+            "ActionTag": 1511733277,
+            "Size": {
+              "X": 161.0,
+              "Y": 306.0
+            },
+            "Name": "lu2_1_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lu/lu2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 160.6024,
+              "Y": 404.9711
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 80.1024,
+            "RightMargin": -241.1024,
+            "TopMargin": -557.9711,
+            "BottomMargin": 251.9711,
+            "Tag": 3437,
+            "ActionTag": -375429750,
+            "Size": {
+              "X": 161.0,
+              "Y": 306.0
+            },
+            "Name": "lu2_1_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lu/lu2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 313.4202,
+              "Y": 484.4359
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 232.9202,
+            "RightMargin": -393.9202,
+            "TopMargin": -637.4359,
+            "BottomMargin": 331.4359,
+            "Tag": 3438,
+            "ActionTag": -1793754685,
+            "Size": {
+              "X": 161.0,
+              "Y": 306.0
+            },
+            "Name": "lu2_1_5",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "lu/lu2.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,1206 @@
+{
+  "ID": "0c4f27b1-d8f0-4006-99f2-a0cf0a83d29d",
+  "Version": "2.3.0.0",
+  "Name": "luky",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 19912,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -146.5169,
+              "Y": 22.2019
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -176.0169,
+            "RightMargin": 117.0169,
+            "TopMargin": -52.2019,
+            "BottomMargin": -7.7981,
+            "Tag": 36373,
+            "ActionTag": -330105119,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -110.5005,
+              "Y": 4.7689
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -140.0005,
+            "RightMargin": 81.0005,
+            "TopMargin": -34.7689,
+            "BottomMargin": -25.2311,
+            "Tag": 36374,
+            "ActionTag": -1507351372,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -75.1926,
+              "Y": -14.4332
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -104.6926,
+            "RightMargin": 45.6926,
+            "TopMargin": -15.5668,
+            "BottomMargin": -44.4332,
+            "Tag": 36375,
+            "ActionTag": -2064619590,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -39.8847,
+              "Y": -31.777
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -69.3847,
+            "RightMargin": 10.3847,
+            "TopMargin": 1.777,
+            "BottomMargin": -61.777,
+            "Tag": 36376,
+            "ActionTag": -1538239146,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -7.055,
+              "Y": -49.1208
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -36.555,
+            "RightMargin": -22.445,
+            "TopMargin": 19.1208,
+            "BottomMargin": -79.1208,
+            "Tag": 36377,
+            "ActionTag": -1746867173,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 32.6815,
+              "Y": -67.5459
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 3.1815,
+            "RightMargin": -62.1815,
+            "TopMargin": 37.5459,
+            "BottomMargin": -97.5459,
+            "Tag": 36378,
+            "ActionTag": 1556998268,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -184.5579,
+              "Y": 1.8985
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -214.0579,
+            "RightMargin": 155.0579,
+            "TopMargin": -31.8985,
+            "BottomMargin": -28.1015,
+            "Tag": 36380,
+            "ActionTag": -19824614,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -223.0112,
+              "Y": -16.3809
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -252.5112,
+            "RightMargin": 193.5112,
+            "TopMargin": -13.6191,
+            "BottomMargin": -46.3809,
+            "Tag": 36381,
+            "ActionTag": 1151558889,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -261.3262,
+              "Y": -36.4288
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -290.8262,
+            "RightMargin": 231.8262,
+            "TopMargin": 6.4288,
+            "BottomMargin": -66.4288,
+            "Tag": 36382,
+            "ActionTag": 847172453,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -3.1522,
+              "Y": -85.9035
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -32.6522,
+            "RightMargin": -26.3478,
+            "TopMargin": 55.9035,
+            "BottomMargin": -115.9035,
+            "Tag": 36383,
+            "ActionTag": -583754599,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_2_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -37.1754,
+              "Y": -105.2042
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -66.6754,
+            "RightMargin": 7.6754,
+            "TopMargin": 75.2042,
+            "BottomMargin": -135.2042,
+            "Tag": 36384,
+            "ActionTag": 209892274,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_3_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.3564,
+              "ScaleY": 0.2851
+            },
+            "Position": {
+              "X": -121.0555,
+              "Y": -137.0736
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -100.0307,
+            "RightMargin": 41.0307,
+            "TopMargin": 94.1815,
+            "BottomMargin": -154.1815,
+            "Tag": 39734,
+            "ActionTag": 2067508020,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_3_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.3564,
+              "ScaleY": 0.2851
+            },
+            "Position": {
+              "X": -154.4779,
+              "Y": -156.1049
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -133.4531,
+            "RightMargin": 74.4531,
+            "TopMargin": 113.2129,
+            "BottomMargin": -173.2129,
+            "Tag": 39735,
+            "ActionTag": 1719317312,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_3_0_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.3564,
+              "ScaleY": 0.2851
+            },
+            "Position": {
+              "X": -348.1096,
+              "Y": -68.4676
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -327.0848,
+            "RightMargin": 268.0848,
+            "TopMargin": 25.5755,
+            "BottomMargin": -85.5755,
+            "Tag": 39736,
+            "ActionTag": 1624714953,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_3_0_0_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.3564,
+              "ScaleY": 0.2851
+            },
+            "Position": {
+              "X": -383.6498,
+              "Y": -88.7785
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -362.625,
+            "RightMargin": 303.625,
+            "TopMargin": 45.8865,
+            "BottomMargin": -105.8865,
+            "Tag": 39737,
+            "ActionTag": 1903380701,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_3_0_0_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.3564,
+              "ScaleY": 0.2851
+            },
+            "Position": {
+              "X": -348.9526,
+              "Y": -107.3963
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -327.9279,
+            "RightMargin": 268.9279,
+            "TopMargin": 64.5043,
+            "BottomMargin": -124.5043,
+            "Tag": 39738,
+            "ActionTag": 1760763516,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_3_0_0_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.3564,
+              "ScaleY": 0.2851
+            },
+            "Position": {
+              "X": -311.7169,
+              "Y": -124.3214
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -290.6921,
+            "RightMargin": 231.6921,
+            "TopMargin": 81.4294,
+            "BottomMargin": -141.4294,
+            "Tag": 39739,
+            "ActionTag": 1975744303,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_3_0_0_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.3564,
+              "ScaleY": 0.2851
+            },
+            "Position": {
+              "X": -273.6349,
+              "Y": -142.0927
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -252.6102,
+            "RightMargin": 193.6102,
+            "TopMargin": 99.2007,
+            "BottomMargin": -159.2007,
+            "Tag": 39740,
+            "ActionTag": -959123990,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_3_0_0_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.3564,
+              "ScaleY": 0.2851
+            },
+            "Position": {
+              "X": -232.1679,
+              "Y": -157.3253
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -211.1431,
+            "RightMargin": 152.1431,
+            "TopMargin": 114.4333,
+            "BottomMargin": -174.4333,
+            "Tag": 39741,
+            "ActionTag": 184711120,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_3_0_0_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.3564,
+              "ScaleY": 0.2851
+            },
+            "Position": {
+              "X": -191.5075,
+              "Y": -174.2503
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -170.4827,
+            "RightMargin": 111.4827,
+            "TopMargin": 131.3582,
+            "BottomMargin": -191.3582,
+            "Tag": 39742,
+            "ActionTag": -1317597694,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "shu4_6438_3_0_0_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -243.1767,
+              "Y": -72.595
+            },
+            "Scale": {
+              "ScaleX": 0.7733,
+              "ScaleY": 0.7733
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -253.1767,
+            "RightMargin": 233.1767,
+            "TopMargin": 65.595,
+            "BottomMargin": -79.595,
+            "Tag": 61023,
+            "ActionTag": 1901385298,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer2_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -218.2406,
+              "Y": -90.7304
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -228.2406,
+            "RightMargin": 208.2406,
+            "TopMargin": 83.7304,
+            "BottomMargin": -97.7304,
+            "Tag": 61024,
+            "ActionTag": -1938217361,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer3_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -143.4267,
+              "Y": -126.6663
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -154.9267,
+            "RightMargin": 131.9267,
+            "TopMargin": 112.1663,
+            "BottomMargin": -141.1663,
+            "Tag": 61025,
+            "ActionTag": -595703828,
+            "Size": {
+              "X": 23.0,
+              "Y": 29.0
+            },
+            "Name": "huaer5_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.1229,
+              "ScaleY": 0.1859
+            },
+            "Position": {
+              "X": -75.9909,
+              "Y": -95.2644
+            },
+            "Scale": {
+              "ScaleX": 0.7733,
+              "ScaleY": 0.7733
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -98.4496,
+            "RightMargin": 78.4496,
+            "TopMargin": 83.8673,
+            "BottomMargin": -97.8673,
+            "Tag": 61026,
+            "ActionTag": 226699732,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer3_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -189.3372,
+              "Y": -109.4328
+            },
+            "Scale": {
+              "ScaleX": 0.66,
+              "ScaleY": 0.66
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -199.3372,
+            "RightMargin": 179.3372,
+            "TopMargin": 102.4328,
+            "BottomMargin": -116.4328,
+            "Tag": 61027,
+            "ActionTag": -886404731,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer4_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -1.5457,
+              "ScaleY": 3.4225
+            },
+            "Position": {
+              "X": -265.275,
+              "Y": -57.8604
+            },
+            "Scale": {
+              "ScaleX": 0.6711,
+              "ScaleY": 0.66
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -234.3605,
+            "RightMargin": 214.3605,
+            "TopMargin": 91.7752,
+            "BottomMargin": -105.7752,
+            "Tag": 61028,
+            "ActionTag": -58125321,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer4_7_0",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "shu/huaer4.png",
+        "shu/huaer3.png",
+        "shu/shu4.png",
+        "shu/huaer5.png",
+        "shu/huaer2.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

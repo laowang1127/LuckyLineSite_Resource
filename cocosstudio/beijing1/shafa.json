@@ -1,0 +1,303 @@
+{
+  "ID": "a0bef8c4-1dae-454c-a967-01180d7f3cbe",
+  "Version": "2.3.0.0",
+  "Name": "shafa",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 4927,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_010.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -49.8849,
+              "Y": 164.6684
+            },
+            "Scale": {
+              "ScaleX": 0.7143,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -102.3849,
+            "RightMargin": -2.6151,
+            "TopMargin": -229.6684,
+            "BottomMargin": 99.6684,
+            "Tag": 4929,
+            "ActionTag": 1386742817,
+            "Size": {
+              "X": 105.0,
+              "Y": 130.0
+            },
+            "Name": "za_010_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/fz_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -48.1359,
+              "Y": 121.386
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -78.1359,
+            "RightMargin": 18.1359,
+            "TopMargin": -141.386,
+            "BottomMargin": 101.386,
+            "Tag": 4928,
+            "ActionTag": 1661866593,
+            "Size": {
+              "X": 60.0,
+              "Y": 40.0
+            },
+            "Name": "fz_03_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/fz_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -10.3707,
+              "Y": 103.7271
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -40.3707,
+            "RightMargin": -19.6293,
+            "TopMargin": -123.7271,
+            "BottomMargin": 83.7271,
+            "Tag": 4931,
+            "ActionTag": 1332986741,
+            "Size": {
+              "X": 60.0,
+              "Y": 40.0
+            },
+            "Name": "fz_03_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/fz_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -86.0043,
+              "Y": 108.514
+            },
+            "Scale": {
+              "ScaleX": -1.0105,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -116.0043,
+            "RightMargin": 56.0043,
+            "TopMargin": -128.5139,
+            "BottomMargin": 88.514,
+            "Tag": 4932,
+            "ActionTag": 2017048805,
+            "Size": {
+              "X": 60.0,
+              "Y": 40.0
+            },
+            "Name": "fz_03_1_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_010.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 15.6096,
+              "Y": 121.6712
+            },
+            "Scale": {
+              "ScaleX": 0.7143,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -36.8904,
+            "RightMargin": -68.1096,
+            "TopMargin": -186.6712,
+            "BottomMargin": 56.6712,
+            "Tag": 5304,
+            "ActionTag": 512391020,
+            "Size": {
+              "X": 105.0,
+              "Y": 130.0
+            },
+            "Name": "za_010_2_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_010.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -114.8852,
+              "Y": 132.1724
+            },
+            "Scale": {
+              "ScaleX": 0.7143,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -167.3852,
+            "RightMargin": 62.3852,
+            "TopMargin": -197.1724,
+            "BottomMargin": 67.1724,
+            "Tag": 5305,
+            "ActionTag": 1725684150,
+            "Size": {
+              "X": 105.0,
+              "Y": 130.0
+            },
+            "Name": "za_010_2_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "jianzhu/fz_03.png",
+        "jianzhu/za_010.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

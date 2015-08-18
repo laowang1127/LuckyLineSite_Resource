@@ -1,0 +1,445 @@
+{
+  "ID": "348f44a6-7212-41c4-804b-3ee8951f8834",
+  "Version": "2.3.1.1",
+  "Name": "WinBG",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 95,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "M xia zuo.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -470.0,
+              "Y": -270.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -490.0,
+            "RightMargin": 450.0,
+            "TopMargin": 250.0,
+            "BottomMargin": -290.0,
+            "Tag": 96,
+            "ActionTag": -1634307438,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "Sprite_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "M xia you.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 470.0,
+              "Y": -270.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 450.0,
+            "RightMargin": -490.0,
+            "TopMargin": 250.0,
+            "BottomMargin": -290.0,
+            "Tag": 123,
+            "ActionTag": 401471134,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "Sprite_32",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "M shang zuo.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -470.0,
+              "Y": 270.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -490.0,
+            "RightMargin": 450.0,
+            "TopMargin": -290.0,
+            "BottomMargin": 250.0,
+            "Tag": 124,
+            "ActionTag": -110807886,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "Sprite_53",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "M shang zhong.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0001,
+              "Y": 270.0
+            },
+            "Scale": {
+              "ScaleX": 22.8917,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -19.9999,
+            "RightMargin": -20.0001,
+            "TopMargin": -290.0,
+            "BottomMargin": 250.0,
+            "Tag": 125,
+            "ActionTag": -1167340707,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "Sprite_54",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "M shang you.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 470.0,
+              "Y": 270.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 450.0,
+            "RightMargin": -490.0,
+            "TopMargin": -290.0,
+            "BottomMargin": 250.0,
+            "Tag": 143,
+            "ActionTag": 2036349637,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "Sprite_72",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "M zhong zuo.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -470.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 12.6314
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -490.0,
+            "RightMargin": 450.0,
+            "TopMargin": -20.0,
+            "BottomMargin": -20.0,
+            "Tag": 144,
+            "ActionTag": 1155764384,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "Sprite_73",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "M zhong.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0002,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 23.0458,
+              "ScaleY": 13.1548
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -19.9998,
+            "RightMargin": -20.0002,
+            "TopMargin": -20.0,
+            "BottomMargin": -20.0,
+            "Tag": 152,
+            "ActionTag": 742793311,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "Sprite_82",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "M zhong you.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 469.9996,
+              "Y": 0.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 12.7127
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 449.9996,
+            "RightMargin": -489.9996,
+            "TopMargin": -20.0001,
+            "BottomMargin": -19.9999,
+            "Tag": 154,
+            "ActionTag": 878770418,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "Sprite_54_16_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "M xia zhong.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -0.0002,
+              "Y": -270.0
+            },
+            "Scale": {
+              "ScaleX": 23.2785,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -20.0002,
+            "RightMargin": -19.9998,
+            "TopMargin": 250.0,
+            "BottomMargin": -290.0,
+            "Tag": 287,
+            "ActionTag": 1725904843,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "Sprite_5_12",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "M shang you.png",
+        "M shang zhong.png",
+        "M shang zuo.png",
+        "M xia you.png",
+        "M xia zhong.png",
+        "M xia zuo.png",
+        "M zhong you.png",
+        "M zhong zuo.png",
+        "M zhong.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

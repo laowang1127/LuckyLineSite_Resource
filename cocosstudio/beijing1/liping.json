@@ -1,0 +1,1533 @@
+{
+  "ID": "f5f1c557-ba8f-4df4-8177-95a4669579c0",
+  "Version": "2.3.0.0",
+  "Name": "liping",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 5476,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 336.0452,
+              "Y": 170.2504
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8843,
+              "Y": 0.8031
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 304.5452,
+            "RightMargin": 12.4548,
+            "TopMargin": 25.2496,
+            "BottomMargin": 153.7504,
+            "Tag": 5522,
+            "ActionTag": 595930966,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_7_0_0_3_0_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 303.2854,
+              "Y": 153.5092
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7981,
+              "Y": 0.7241
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 271.7854,
+            "RightMargin": 45.2146,
+            "TopMargin": 41.9908,
+            "BottomMargin": 137.0092,
+            "Tag": 5492,
+            "ActionTag": 1867917249,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_7_0_0_3_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 270.345,
+              "Y": 136.6682
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7114,
+              "Y": 0.6447
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 238.845,
+            "RightMargin": 78.155,
+            "TopMargin": 58.8318,
+            "BottomMargin": 120.1682,
+            "Tag": 5490,
+            "ActionTag": -454014018,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_7_0_0_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.4049,
+              "ScaleY": 0.7397
+            },
+            "Position": {
+              "X": 65.3518,
+              "Y": 139.2087
+            },
+            "Scale": {
+              "ScaleX": 1.3236,
+              "ScaleY": 1.3236
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.172,
+              "Y": 0.6566
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 54.0146,
+            "RightMargin": 297.9854,
+            "TopMargin": 58.2145,
+            "BottomMargin": 97.7855,
+            "Tag": 5518,
+            "ActionTag": -1091782559,
+            "Size": {
+              "X": 28.0,
+              "Y": 56.0
+            },
+            "Name": "za_01_41_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 270.4886,
+              "Y": 213.627
+            },
+            "Scale": {
+              "ScaleX": 1.3236,
+              "ScaleY": 1.3236
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7118,
+              "Y": 1.0077
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 256.4886,
+            "RightMargin": 95.5114,
+            "TopMargin": -29.627,
+            "BottomMargin": 185.627,
+            "Tag": 5517,
+            "ActionTag": 649925202,
+            "Size": {
+              "X": 28.0,
+              "Y": 56.0
+            },
+            "Name": "za_01_41",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi11.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.9229,
+              "ScaleY": 1.3208
+            },
+            "Position": {
+              "X": 132.4105,
+              "Y": 98.9463
+            },
+            "Scale": {
+              "ScaleX": 0.6414,
+              "ScaleY": 0.657
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3484,
+              "Y": 0.4667
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 94.5716,
+            "RightMargin": 244.4284,
+            "TopMargin": 125.8857,
+            "BottomMargin": 46.1143,
+            "Tag": 5509,
+            "ActionTag": 192225395,
+            "Size": {
+              "X": 41.0,
+              "Y": 40.0
+            },
+            "Name": "hezi11_31_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi11.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.9229,
+              "ScaleY": 1.3208
+            },
+            "Position": {
+              "X": 102.8094,
+              "Y": 92.7751
+            },
+            "Scale": {
+              "ScaleX": 0.6414,
+              "ScaleY": 0.657
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2706,
+              "Y": 0.4376
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 64.9705,
+            "RightMargin": 274.0295,
+            "TopMargin": 132.0569,
+            "BottomMargin": 39.9431,
+            "Tag": 5508,
+            "ActionTag": -1618198711,
+            "Size": {
+              "X": 41.0,
+              "Y": 40.0
+            },
+            "Name": "hezi11_31_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_05.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.4061
+            },
+            "Position": {
+              "X": 317.1016,
+              "Y": 151.2856
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8345,
+              "Y": 0.7136
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 278.1016,
+            "RightMargin": 62.8984,
+            "TopMargin": 38.7401,
+            "BottomMargin": 136.2599,
+            "Tag": 5521,
+            "ActionTag": -638171706,
+            "Size": {
+              "X": 39.0,
+              "Y": 37.0
+            },
+            "Name": "za_05_44_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 39.0216,
+              "Y": 17.0516
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1027,
+              "Y": 0.0804
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 7.5216,
+            "RightMargin": 309.4784,
+            "TopMargin": 178.4484,
+            "BottomMargin": 0.5516,
+            "Tag": 5483,
+            "ActionTag": -279222749,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 73.2221,
+              "Y": 33.7564
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1927,
+              "Y": 0.1592
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 41.7221,
+            "RightMargin": 275.2779,
+            "TopMargin": 161.7436,
+            "BottomMargin": 17.2564,
+            "Tag": 5484,
+            "ActionTag": -659635588,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_7_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 105.8068,
+              "Y": 51.2189
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2784,
+              "Y": 0.2416
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 74.3068,
+            "RightMargin": 242.6932,
+            "TopMargin": 144.2811,
+            "BottomMargin": 34.7189,
+            "Tag": 5485,
+            "ActionTag": 272585833,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_7_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 139.2574,
+              "Y": 68.351
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3665,
+              "Y": 0.3224
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 107.7574,
+            "RightMargin": 209.2426,
+            "TopMargin": 127.149,
+            "BottomMargin": 51.851,
+            "Tag": 5486,
+            "ActionTag": 391209737,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_7_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.8644,
+              "ScaleY": 1.1474
+            },
+            "Position": {
+              "X": 194.7381,
+              "Y": 106.4699
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5125,
+              "Y": 0.5022
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 140.2809,
+            "RightMargin": 176.7191,
+            "TopMargin": 110.3943,
+            "BottomMargin": 68.6057,
+            "Tag": 5487,
+            "ActionTag": -1816780176,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_7_0_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 204.7791,
+              "Y": 102.2945
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5389,
+              "Y": 0.4825
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 173.2791,
+            "RightMargin": 143.7209,
+            "TopMargin": 93.2055,
+            "BottomMargin": 85.7945,
+            "Tag": 5488,
+            "ActionTag": 1135411445,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_7_0_0_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/caodi1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 237.1438,
+              "Y": 119.5958
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6241,
+              "Y": 0.5641
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 205.6438,
+            "RightMargin": 111.3562,
+            "TopMargin": 75.9042,
+            "BottomMargin": 103.0958,
+            "Tag": 5489,
+            "ActionTag": -1444758019,
+            "Size": {
+              "X": 63.0,
+              "Y": 33.0
+            },
+            "Name": "caodi1_7_0_0_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi11.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 72.4867,
+              "Y": 43.6727
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1908,
+              "Y": 0.206
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 51.9867,
+            "RightMargin": 287.0133,
+            "TopMargin": 148.3273,
+            "BottomMargin": 23.6727,
+            "Tag": 5493,
+            "ActionTag": 710542255,
+            "Size": {
+              "X": 41.0,
+              "Y": 40.0
+            },
+            "Name": "hezi11_17",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/renwu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 66.4521,
+              "Y": 74.1869
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1749,
+              "Y": 0.3499
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 57.9521,
+            "RightMargin": 305.0479,
+            "TopMargin": 114.8131,
+            "BottomMargin": 51.1869,
+            "Tag": 5494,
+            "ActionTag": 1119901797,
+            "Size": {
+              "X": 17.0,
+              "Y": 46.0
+            },
+            "Name": "renwu4_18",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi11.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 268.2009,
+              "Y": 145.7368
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7058,
+              "Y": 0.6874
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 247.7009,
+            "RightMargin": 91.2991,
+            "TopMargin": 46.2632,
+            "BottomMargin": 125.7368,
+            "Tag": 5495,
+            "ActionTag": 1138432912,
+            "Size": {
+              "X": 41.0,
+              "Y": 40.0
+            },
+            "Name": "hezi11_17_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/renwu4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 268.5017,
+              "Y": 178.9666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7066,
+              "Y": 0.8442
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 260.0017,
+            "RightMargin": 102.9983,
+            "TopMargin": 10.0334,
+            "BottomMargin": 155.9666,
+            "Tag": 5496,
+            "ActionTag": -381073107,
+            "Size": {
+              "X": 17.0,
+              "Y": 46.0
+            },
+            "Name": "renwu4_18_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/OPPO LUCKY LINE.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 174.6528,
+              "Y": 149.7625
+            },
+            "Scale": {
+              "ScaleX": 0.8338,
+              "ScaleY": 0.8359
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4596,
+              "Y": 0.7064
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 4.1528,
+            "RightMargin": 34.8472,
+            "TopMargin": -28.2625,
+            "BottomMargin": 59.2625,
+            "Tag": 5497,
+            "ActionTag": -1784777029,
+            "Size": {
+              "X": 341.0,
+              "Y": 181.0
+            },
+            "Name": "Sprite_21",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/shitou1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 235.5615,
+              "Y": 147.7878
+            },
+            "Scale": {
+              "ScaleX": 0.222,
+              "ScaleY": 0.222
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6199,
+              "Y": 0.6971
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 168.0615,
+            "RightMargin": 76.9385,
+            "TopMargin": 23.2122,
+            "BottomMargin": 106.7878,
+            "Tag": 5499,
+            "ActionTag": 639010337,
+            "Size": {
+              "X": 135.0,
+              "Y": 82.0
+            },
+            "Name": "shitou1_23",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/lan.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 329.6815,
+              "Y": 168.0682
+            },
+            "Scale": {
+              "ScaleX": 0.578,
+              "ScaleY": 0.578
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8676,
+              "Y": 0.7928
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 313.6815,
+            "RightMargin": 34.3185,
+            "TopMargin": 28.9318,
+            "BottomMargin": 153.0682,
+            "Tag": 5501,
+            "ActionTag": -1825367547,
+            "Size": {
+              "X": 32.0,
+              "Y": 30.0
+            },
+            "Name": "lan_25",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi9.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 143.2873,
+              "Y": 77.27
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": -0.9547,
+            "RotationSkewX": -0.9547,
+            "RotationSkewY": -0.9547,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3771,
+              "Y": 0.3645
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 127.7873,
+            "RightMargin": 221.2127,
+            "TopMargin": 118.73,
+            "BottomMargin": 61.27,
+            "Tag": 5504,
+            "ActionTag": 214814270,
+            "Size": {
+              "X": 31.0,
+              "Y": 32.0
+            },
+            "Name": "hezi9_28",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 104.4163,
+              "Y": 62.0968
+            },
+            "Scale": {
+              "ScaleX": 0.3642,
+              "ScaleY": 0.3998
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2748,
+              "Y": 0.2929
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 74.9163,
+            "RightMargin": 246.0837,
+            "TopMargin": 119.9032,
+            "BottomMargin": 32.0968,
+            "Tag": 5506,
+            "ActionTag": 1312602071,
+            "Size": {
+              "X": 59.0,
+              "Y": 60.0
+            },
+            "Name": "hezi5_30",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi11.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 106.6789,
+              "Y": 76.3036
+            },
+            "Scale": {
+              "ScaleX": 0.6414,
+              "ScaleY": 0.657
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2807,
+              "Y": 0.3599
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 86.1789,
+            "RightMargin": 252.8211,
+            "TopMargin": 115.6964,
+            "BottomMargin": 56.3036,
+            "Tag": 5507,
+            "ActionTag": 1187551979,
+            "Size": {
+              "X": 41.0,
+              "Y": 40.0
+            },
+            "Name": "hezi11_31",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi7.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 126.1413,
+              "Y": 64.148
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.332,
+              "Y": 0.3026
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 111.1413,
+            "RightMargin": 238.8587,
+            "TopMargin": 132.852,
+            "BottomMargin": 49.148,
+            "Tag": 5505,
+            "ActionTag": -857736131,
+            "Size": {
+              "X": 30.0,
+              "Y": 30.0
+            },
+            "Name": "hezi7_29",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi11.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.9229,
+              "ScaleY": 1.3208
+            },
+            "Position": {
+              "X": 201.7037,
+              "Y": 115.409
+            },
+            "Scale": {
+              "ScaleX": 0.4864,
+              "ScaleY": 0.4982
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5308,
+              "Y": 0.5444
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 163.8648,
+            "RightMargin": 175.1352,
+            "TopMargin": 109.423,
+            "BottomMargin": 62.577,
+            "Tag": 5510,
+            "ActionTag": -1470062834,
+            "Size": {
+              "X": 41.0,
+              "Y": 40.0
+            },
+            "Name": "hezi11_31_0_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5817,
+              "ScaleY": 0.647
+            },
+            "Position": {
+              "X": 194.643,
+              "Y": 111.6915
+            },
+            "Scale": {
+              "ScaleX": 0.6486,
+              "ScaleY": 0.6298
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5122,
+              "Y": 0.5268
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 177.192,
+            "RightMargin": 172.808,
+            "TopMargin": 89.7185,
+            "BottomMargin": 92.2815,
+            "Tag": 5513,
+            "ActionTag": 850139800,
+            "Size": {
+              "X": 30.0,
+              "Y": 30.0
+            },
+            "Name": "hezi4_35_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5817,
+              "ScaleY": 0.647
+            },
+            "Position": {
+              "X": 127.3108,
+              "Y": 94.2457
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.335,
+              "Y": 0.4446
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 109.8598,
+            "RightMargin": 240.1402,
+            "TopMargin": 107.1643,
+            "BottomMargin": 74.8357,
+            "Tag": 5511,
+            "ActionTag": 567643603,
+            "Size": {
+              "X": 30.0,
+              "Y": 30.0
+            },
+            "Name": "hezi4_35",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi6.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 182.1937,
+              "Y": 91.794
+            },
+            "Scale": {
+              "ScaleX": 0.1346,
+              "ScaleY": 0.1346
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4795,
+              "Y": 0.433
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 135.1937,
+            "RightMargin": 150.8063,
+            "TopMargin": 74.706,
+            "BottomMargin": 46.294,
+            "Tag": 5514,
+            "ActionTag": 696530342,
+            "Size": {
+              "X": 94.0,
+              "Y": 91.0
+            },
+            "Name": "hezi6_38",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/lan.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 344.2112,
+              "Y": 178.1287
+            },
+            "Scale": {
+              "ScaleX": 0.578,
+              "ScaleY": 0.578
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9058,
+              "Y": 0.8402
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 328.2112,
+            "RightMargin": 19.7888,
+            "TopMargin": 18.8713,
+            "BottomMargin": 163.1287,
+            "Tag": 5516,
+            "ActionTag": 1333175891,
+            "Size": {
+              "X": 32.0,
+              "Y": 30.0
+            },
+            "Name": "lan_25_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_010.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 172.1274,
+              "Y": 111.3818
+            },
+            "Scale": {
+              "ScaleX": 0.4083,
+              "ScaleY": 0.4083
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.453,
+              "Y": 0.5254
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 119.6274,
+            "RightMargin": 155.3726,
+            "TopMargin": 35.6182,
+            "BottomMargin": 46.3818,
+            "Tag": 5519,
+            "ActionTag": -2120670437,
+            "Size": {
+              "X": 105.0,
+              "Y": 130.0
+            },
+            "Name": "za_010_43",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_05.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 43.9966,
+              "Y": 27.9034
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1158,
+              "Y": 0.1316
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 24.4966,
+            "RightMargin": 316.5034,
+            "TopMargin": 165.5966,
+            "BottomMargin": 9.4034,
+            "Tag": 5520,
+            "ActionTag": 2014981132,
+            "Size": {
+              "X": 39.0,
+              "Y": 37.0
+            },
+            "Name": "za_05_44",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 380.0,
+          "Y": 212.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "hezi/hezi4.png",
+        "hezi/hezi7.png",
+        "za/lan.png",
+        "za/shitou1.png",
+        "za/OPPO LUCKY LINE.png",
+        "hezi/hezi11.png",
+        "jianzhu/za_01.png",
+        "jianzhu/za_010.png",
+        "hezi/hezi6.png",
+        "hezi/hezi5.png",
+        "hezi/hezi9.png",
+        "shu/renwu4.png",
+        "jianzhu/za_05.png",
+        "za/caodi1.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

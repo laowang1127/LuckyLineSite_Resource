@@ -1,0 +1,528 @@
+{
+  "ID": "26d41d33-4427-4187-b451-be33b07a124d",
+  "Version": "2.3.0.0",
+  "Name": "men2",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 47909,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi8.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -71.7659,
+              "Y": -167.5591
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -93.2659,
+            "RightMargin": 50.2659,
+            "TopMargin": 151.5591,
+            "BottomMargin": -183.5591,
+            "Tag": 47910,
+            "ActionTag": 1928857772,
+            "Size": {
+              "X": 43.0,
+              "Y": 32.0
+            },
+            "Name": "hezi8_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi9.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -71.304,
+              "Y": -154.4058
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -86.804,
+            "RightMargin": 55.804,
+            "TopMargin": 138.4058,
+            "BottomMargin": -170.4058,
+            "Tag": 47911,
+            "ActionTag": 1486479973,
+            "Size": {
+              "X": 31.0,
+              "Y": 32.0
+            },
+            "Name": "hezi9_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi8.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -142.7089,
+              "Y": -207.2224
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -164.2089,
+            "RightMargin": 121.2089,
+            "TopMargin": 191.2224,
+            "BottomMargin": -223.2224,
+            "Tag": 47912,
+            "ActionTag": 1289271562,
+            "Size": {
+              "X": 43.0,
+              "Y": 32.0
+            },
+            "Name": "hezi8_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi9.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -71.3592,
+              "Y": -135.7496
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -86.8592,
+            "RightMargin": 55.8592,
+            "TopMargin": 119.7496,
+            "BottomMargin": -151.7496,
+            "Tag": 47913,
+            "ActionTag": -541255738,
+            "Size": {
+              "X": 31.0,
+              "Y": 32.0
+            },
+            "Name": "hezi9_2_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi9.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -143.3331,
+              "Y": -193.1568
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -158.8331,
+            "RightMargin": 127.8331,
+            "TopMargin": 177.1568,
+            "BottomMargin": -209.1568,
+            "Tag": 47920,
+            "ActionTag": 1957126700,
+            "Size": {
+              "X": 31.0,
+              "Y": 32.0
+            },
+            "Name": "hezi9_2_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi9.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -71.3591,
+              "Y": -117.1486
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -86.8591,
+            "RightMargin": 55.8591,
+            "TopMargin": 101.1486,
+            "BottomMargin": -133.1486,
+            "Tag": 47914,
+            "ActionTag": 1802685752,
+            "Size": {
+              "X": 31.0,
+              "Y": 32.0
+            },
+            "Name": "hezi9_2_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi9.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -89.9604,
+              "Y": -126.198
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -105.4604,
+            "RightMargin": 74.4604,
+            "TopMargin": 110.198,
+            "BottomMargin": -142.198,
+            "Tag": 47915,
+            "ActionTag": -529588751,
+            "Size": {
+              "X": 31.0,
+              "Y": 32.0
+            },
+            "Name": "hezi9_2_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi9.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -143.3339,
+              "Y": -175.0575
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -158.8339,
+            "RightMargin": 127.8339,
+            "TopMargin": 159.0575,
+            "BottomMargin": -191.0575,
+            "Tag": 47919,
+            "ActionTag": -1029189253,
+            "Size": {
+              "X": 31.0,
+              "Y": 32.0
+            },
+            "Name": "hezi9_2_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi9.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.2001,
+              "ScaleY": 0.3557
+            },
+            "Position": {
+              "X": -130.2639,
+              "Y": -140.3673
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -124.0619,
+            "RightMargin": 93.0619,
+            "TopMargin": 119.7509,
+            "BottomMargin": -151.7509,
+            "Tag": 47916,
+            "ActionTag": -685968390,
+            "Size": {
+              "X": 31.0,
+              "Y": 32.0
+            },
+            "Name": "hezi9_2_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi9.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -126.2417,
+              "Y": -145.897
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -141.7417,
+            "RightMargin": 110.7417,
+            "TopMargin": 129.897,
+            "BottomMargin": -161.897,
+            "Tag": 47917,
+            "ActionTag": 1641543886,
+            "Size": {
+              "X": 31.0,
+              "Y": 32.0
+            },
+            "Name": "hezi9_2_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hezi/hezi9.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -144.3402,
+              "Y": -155.9525
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -159.8402,
+            "RightMargin": 128.8402,
+            "TopMargin": 139.9525,
+            "BottomMargin": -171.9525,
+            "Tag": 47918,
+            "ActionTag": -1445419606,
+            "Size": {
+              "X": 31.0,
+              "Y": 32.0
+            },
+            "Name": "hezi9_2_5",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "hezi/hezi8.png",
+        "hezi/hezi9.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

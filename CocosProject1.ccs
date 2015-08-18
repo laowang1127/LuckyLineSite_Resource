@@ -1,0 +1,228 @@
+<Solution>
+  <PropertyGroup Name="CocosProject1" Version="2.3.2.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="road_head.png" />
+        <Image Name="road_middle.png" />
+        <Image Name="road_tail.png" />
+        <Image Name="an.png" />
+        <Image Name="anliu.png" />
+        <Image Name="anliu2.png" />
+        <Image Name="beij.png" />
+        <Image Name="beijing.png" />
+        <Image Name="crbf.png" />
+        <Image Name="di.png" />
+        <Image Name="GLOBAL RANKS.png" />
+        <Image Name="gou.png" />
+        <Image Name="guagnbi.png" />
+        <Image Name="guoqi.png" />
+        <Image Name="k1.png" />
+        <Image Name="k2.png" />
+        <Image Name="kapai.png" />
+        <Image Name="lv.png" />
+        <Image Name="M shang you.png" />
+        <Image Name="M shang zhong.png" />
+        <Image Name="M shang zuo.png" />
+        <Image Name="M xia you.png" />
+        <Image Name="M xia zhong.png" />
+        <Image Name="M xia zuo.png" />
+        <Image Name="M zhong you.png" />
+        <Image Name="M zhong zuo.png" />
+        <Image Name="M zhong.png" />
+        <Image Name="pai1.png" />
+        <Image Name="pai2.png" />
+        <Image Name="redutixing.png" />
+        <Image Name="sanjiao.png" />
+        <Image Name="The R7 Place Race.png" />
+        <Image Name="tiaotiao.png" />
+        <Image Name="xiaolaba.png" />
+        <Image Name="yuan.png" />
+        <Project Name="Join.csd" Type="Scene" />
+        <Project Name="WinBG.csd" Type="Node" />
+        <Project Name="Role.csd" Type="Scene" />
+        <Image Name="pppo R7.png" />
+        <Image Name="11_16.png" />
+        <Project Name="Share.csd" Type="Scene" />
+        <Project Name="Rank.csd" Type="Scene" />
+        <Project Name="rank_list_item.csd" Type="Node" />
+        <Project Name="Invitation.csd" Type="Scene" />
+        <Image Name="11_01.png" />
+        <Image Name="11_02.png" />
+        <Image Name="11_04.png" />
+        <Image Name="11_05.png" />
+        <Image Name="11_06.png" />
+        <Image Name="11_08.png" />
+        <Image Name="11_13.png" />
+        <Image Name="11_14.png" />
+        <Image Name="kuang.png" />
+        <Image Name="kuang01.png" />
+        <Image Name="kuang02.png" />
+        <Image Name="kuang03.png" />
+        <Image Name="kuang04.png" />
+        <Image Name="kuang05.png" />
+        <Image Name="kuang06.png" />
+        <Image Name="kuang07.png" />
+        <Image Name="kuang08.png" />
+        <Image Name="kuang09.png" />
+        <Image Name="r1.png" />
+        <Image Name="r10.png" />
+        <Image Name="r2.png" />
+        <Image Name="r3.png" />
+        <Image Name="r4.png" />
+        <Image Name="r5.png" />
+        <Image Name="r6.png" />
+        <Image Name="r7.png" />
+        <Image Name="r8.png" />
+        <Image Name="r9.png" />
+        <Project Name="HUI.csd" Type="Scene" />
+        <Project Name="share_item.csd" Type="Node" />
+        <Project Name="RoleInfo.csd" Type="Scene" />
+        <Project Name="BuildBouns.csd" Type="Scene" />
+        <Image Name="fb.png" />
+        <Image Name="fb2.png" />
+        <Image Name="tw.png" />
+        <Image Name="tw2.png" />
+        <Image Name="ding_ 1.png" />
+        <Image Name="ding_ 2.png" />
+        <Project Name="About.csd" Type="Scene" />
+        <Project Name="Scene.csd" Type="Scene" />
+        <Image Name="gundong1.png" />
+        <Image Name="gundong2.png" />
+        <Image Name="gundong3.png" />
+        <Image Name="daohang_01.png" />
+        <Image Name="daohang_02.png" />
+        <Image Name="dibu_03.png" />
+        <Image Name="dibu_01.png" />
+        <Image Name="dibu_02.png" />
+        <Image Name="dibu_04.png" />
+        <Image Name="an 02.png" />
+        <Image Name="qweqw.png" />
+        <Image Name="biaoti001.png" />
+        <Image Name="biaoti002.png" />
+        <Image Name="biaoti003.png" />
+        <Image Name="biaoti005.png" />
+        <Image Name="uibind.png" />
+        <Image Name="anliuyi01.png" />
+        <Image Name="anliuyi02.png" />
+        <Image Name="anliuer01.png" />
+        <Image Name="anliuer02.png" />
+        <Image Name="anliusan01.png" />
+        <Image Name="anliusan02.png" />
+        <Image Name="anliusi02.png" />
+        <Image Name="anliusi01.png" />
+        <Image Name="guanggao01.png" />
+        <Image Name="guanggao02.png" />
+        <Image Name="guanggao03.png" />
+        <Image Name="guanggao04.png" />
+        <Image Name="guanggao05.png" />
+        <Image Name="jiemian001.png" />
+        <Image Name="jiemian002.png" />
+        <Image Name="anniuliu01.png" />
+        <Image Name="anniuliu02.png" />
+        <Image Name="anniuwu01.png" />
+        <Image Name="anniuwu02.png" />
+        <Project Name="donghua.csd" Type="Layer" />
+        <Image Name="guanggao10.png" />
+        <Image Name="guanggao06.png" />
+        <Image Name="guanggao07.png" />
+        <Image Name="guanggao08.png" />
+        <Image Name="guanggao09.png" />
+        <Image Name="anliuqi01.png" />
+        <Image Name="anliuqi02.png" />
+        <Project Name="lucky.csd" Type="Scene" />
+        <Project Name="points.csd" Type="Scene" />
+        <Image Name="points.png" />
+        <Image Name="luck4.png" />
+        <Image Name="luck1.png" />
+        <Image Name="luck2.png" />
+        <Image Name="luck.png" />
+        <Image Name="luck 12.png" />
+        <Image Name="zimu0.png" />
+        <Image Name="zimu3.png" />
+        <Image Name="zimu4.png" />
+        <Image Name="zimu5.png" />
+        <Image Name="zimu6.png" />
+        <Image Name="zimu7.png" />
+        <Image Name="zimu8.png" />
+        <Image Name="zimu9.png" />
+        <Image Name="zimu_jia.png" />
+        <Image Name="zimu_jian.png" />
+        <Image Name="luck_12.png" />
+        <Image Name="zimu1.png" />
+        <Image Name="luck_phone.png" />
+        <Image Name="zimu2.png" />
+        <Image Name="point_01.png" />
+        <PlistImageFolder Image="uibind.png" PListFile="uibind.plist" Name=".uibind_PList.Dir" />
+        <PlistImageFolder Image="Plist.png" PListFile="Plist.plist" Name=".Plist_PList.Dir" />
+        <Image Name="0.png" />
+        <Image Name="1.png" />
+        <Image Name="2.png" />
+        <Image Name="3.png" />
+        <Image Name="4.png" />
+        <Image Name="5.png" />
+        <Image Name="6.png" />
+        <Image Name="7.png" />
+        <Image Name="8.png" />
+        <Image Name="9.png" />
+        <File Name="About.json" />
+        <Image Name="algeria.png" />
+        <Image Name="asdfadsfadsf.png" />
+        <Image Name="bangladesh.png" />
+        <File Name="BuildBouns.json" />
+        <Image Name="canzhao1.png" />
+        <Image Name="canzhao2.png" />
+        <Image Name="canzhao5.png" />
+        <Image Name="chanzhao3.png" />
+        <Image Name="chanzhao4.png" />
+        <File Name="cocosstudio.rar" />
+        <Image Name="daohang01.png" />
+        <Image Name="daohang02.png" />
+        <File Name="donghua.json" />
+        <Image Name="europe.png" />
+        <Image Name="guanggao021.png" />
+        <Image Name="guanggao031.png" />
+        <Image Name="guanggao041.png" />
+        <File Name="HUI.json" />
+        <Image Name="india.png" />
+        <Image Name="indonesia.png" />
+        <File Name="Invitation.json" />
+        <Image Name="iran.png" />
+        <File Name="Join.json" />
+        <Project Name="Layer.csd" Type="Layer" />
+        <File Name="lucky.json" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <File Name="MainScene.json" />
+        <Image Name="morocco.png" />
+        <Image Name="north_america.png" />
+        <Image Name="Pakistan.png" />
+        <File Name="points.json" />
+        <File Name="ProcessChinese.pl" />
+        <File Name="Rank.json" />
+        <File Name="rank_list_item.json" />
+        <File Name="Role.json" />
+        <File Name="RoleInfo.json" />
+        <File Name="Scene.json" />
+        <File Name="Share.json" />
+        <File Name="share_item.json" />
+        <Image Name="sri_lanka.png" />
+        <Image Name="t.png" />
+        <Image Name="taiwan.png" />
+        <Image Name="teshu1.png" />
+        <Image Name="teshu2.png" />
+        <Image Name="teshu3.png" />
+        <Image Name="teshu4.png" />
+        <Image Name="teshu5.png" />
+        <Image Name="teshu6.png" />
+        <Image Name="teshu7.png" />
+        <Image Name="tiao.png" />
+        <File Name="WinBG.json" />
+        <Image Name="zi02.png" />
+        <Image Name="zi03.png" />
+        <Image Name="zi04.png" />
+        <Image Name="zi05.png" />
+        <Image Name="zio1.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

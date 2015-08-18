@@ -1,0 +1,4006 @@
+{
+  "ID": "9c18a159-2baf-4e46-8ce4-49d1a2b27297",
+  "Version": "2.3.0.0",
+  "Name": "hu",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 22519,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/fz_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5117
+            },
+            "Position": {
+              "X": -125.8409,
+              "Y": -38.083
+            },
+            "Scale": {
+              "ScaleX": 0.7438,
+              "ScaleY": 0.7438
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -156.5429,
+            "RightMargin": 96.5429,
+            "TopMargin": -1.917,
+            "BottomMargin": -38.083,
+            "Tag": 39935,
+            "ActionTag": -965051885,
+            "Size": {
+              "X": 60.0,
+              "Y": 40.0
+            },
+            "Name": "fz_03_3906",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 26.1457,
+              "Y": -9.9709
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -2.0752,
+            "RightMargin": -40.9248,
+            "TopMargin": -30.5773,
+            "BottomMargin": 8.5773,
+            "Tag": 22522,
+            "ActionTag": 981968946,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -81.9648,
+              "Y": -73.3901
+            },
+            "Scale": {
+              "ScaleX": 3.7676,
+              "ScaleY": 3.7676
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -103.4648,
+            "RightMargin": 60.4648,
+            "TopMargin": 62.3901,
+            "BottomMargin": -84.3901,
+            "Tag": 22525,
+            "ActionTag": 775771177,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.8415,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 25.1915,
+              "Y": -3.5527
+            },
+            "Scale": {
+              "ScaleX": 3.7676,
+              "ScaleY": 3.7676
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -10.993,
+            "RightMargin": -32.007,
+            "TopMargin": 3.5527,
+            "BottomMargin": -25.5527,
+            "Tag": 22526,
+            "ActionTag": 1976881572,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.8415,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 79.4986,
+              "Y": 23.6031
+            },
+            "Scale": {
+              "ScaleX": 3.7676,
+              "ScaleY": 3.7676
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 43.3141,
+            "RightMargin": -86.3141,
+            "TopMargin": -23.6031,
+            "BottomMargin": 1.6031,
+            "Tag": 28009,
+            "ActionTag": 633847444,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_0_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.8415,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": -63.615,
+              "Y": -51.5654
+            },
+            "Scale": {
+              "ScaleX": 3.7676,
+              "ScaleY": 3.7676
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -99.7995,
+            "RightMargin": 56.7995,
+            "TopMargin": 51.5654,
+            "BottomMargin": -73.5654,
+            "Tag": 28010,
+            "ActionTag": 1692312895,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_0_0_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 44.7127,
+              "Y": -19.2252
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 16.4918,
+            "RightMargin": -59.4918,
+            "TopMargin": -21.323,
+            "BottomMargin": -0.677,
+            "Tag": 28012,
+            "ActionTag": -1031156725,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 63.0235,
+              "Y": -28.6579
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 34.8026,
+            "RightMargin": -77.8026,
+            "TopMargin": -11.8903,
+            "BottomMargin": -10.1097,
+            "Tag": 28013,
+            "ActionTag": 522150891,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 81.8889,
+              "Y": -37.5358
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 53.668,
+            "RightMargin": -96.668,
+            "TopMargin": -3.0124,
+            "BottomMargin": -18.9876,
+            "Tag": 28014,
+            "ActionTag": -1803184214,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 91.3216,
+              "Y": -41.9746
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 63.1007,
+            "RightMargin": -106.1007,
+            "TopMargin": 1.4264,
+            "BottomMargin": -23.4264,
+            "Tag": 28015,
+            "ActionTag": 1935808535,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 101.8641,
+              "Y": -47.5233
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 73.6432,
+            "RightMargin": -116.6432,
+            "TopMargin": 6.9751,
+            "BottomMargin": -28.9751,
+            "Tag": 28016,
+            "ActionTag": -73495525,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 92.4315,
+              "Y": -52.5171
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 64.2106,
+            "RightMargin": -107.2106,
+            "TopMargin": 11.9689,
+            "BottomMargin": -33.9689,
+            "Tag": 28017,
+            "ActionTag": -1402656179,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 77.235,
+              "Y": -60.9596
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 49.0141,
+            "RightMargin": -92.0141,
+            "TopMargin": 20.4114,
+            "BottomMargin": -42.4114,
+            "Tag": 28018,
+            "ActionTag": 1152193552,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 57.3951,
+              "Y": -71.9348
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 29.1742,
+            "RightMargin": -72.1742,
+            "TopMargin": 31.3866,
+            "BottomMargin": -53.3866,
+            "Tag": 28019,
+            "ActionTag": 1683690270,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 42.1986,
+              "Y": -80.3773
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 13.9777,
+            "RightMargin": -56.9777,
+            "TopMargin": 39.8291,
+            "BottomMargin": -61.8291,
+            "Tag": 28020,
+            "ActionTag": -43321073,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 22.7815,
+              "Y": -91.3525
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -5.4394,
+            "RightMargin": -37.5606,
+            "TopMargin": 50.8043,
+            "BottomMargin": -72.8043,
+            "Tag": 28021,
+            "ActionTag": 1968238841,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_10",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 19.4808,
+              "Y": -93.6388
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -8.7401,
+            "RightMargin": -34.2599,
+            "TopMargin": 53.0906,
+            "BottomMargin": -75.0906,
+            "Tag": 28022,
+            "ActionTag": -1721288172,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_11",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 3.8928,
+              "Y": -101.6689
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -24.3281,
+            "RightMargin": -18.6719,
+            "TopMargin": 61.1207,
+            "BottomMargin": -83.1207,
+            "Tag": 29941,
+            "ActionTag": 1459677012,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_12",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -15.9468,
+              "Y": -112.5333
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -44.1677,
+            "RightMargin": 1.1677,
+            "TopMargin": 71.9851,
+            "BottomMargin": -93.9851,
+            "Tag": 29942,
+            "ActionTag": 1366287181,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_13",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -33.8967,
+              "Y": -122.4529
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -62.1176,
+            "RightMargin": 19.1176,
+            "TopMargin": 81.9047,
+            "BottomMargin": -103.9047,
+            "Tag": 29943,
+            "ActionTag": 1040458144,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_14",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -52.7915,
+              "Y": -132.8448
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -81.0124,
+            "RightMargin": 38.0124,
+            "TopMargin": 92.2966,
+            "BottomMargin": -114.2966,
+            "Tag": 29944,
+            "ActionTag": -443292821,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_15",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -71.2138,
+              "Y": -142.7641
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -99.4347,
+            "RightMargin": 56.4347,
+            "TopMargin": 102.2159,
+            "BottomMargin": -124.2159,
+            "Tag": 29945,
+            "ActionTag": 330953274,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_16",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -90.5809,
+              "Y": -152.2115
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -118.8018,
+            "RightMargin": 75.8018,
+            "TopMargin": 111.6633,
+            "BottomMargin": -133.6633,
+            "Tag": 29946,
+            "ActionTag": 184327550,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_17",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -104.7519,
+              "Y": -159.7691
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -132.9728,
+            "RightMargin": 89.9728,
+            "TopMargin": 119.2209,
+            "BottomMargin": -141.2209,
+            "Tag": 29947,
+            "ActionTag": -1645424318,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_18",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -113.7268,
+              "Y": -164.9652
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -141.9477,
+            "RightMargin": 98.9477,
+            "TopMargin": 124.417,
+            "BottomMargin": -146.417,
+            "Tag": 29948,
+            "ActionTag": 202197141,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_19",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -127.4252,
+              "Y": -158.8254
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -155.6461,
+            "RightMargin": 112.6461,
+            "TopMargin": 118.2772,
+            "BottomMargin": -140.2772,
+            "Tag": 29949,
+            "ActionTag": -1889581915,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_20",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -145.8628,
+              "Y": -149.6066
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -174.0837,
+            "RightMargin": 131.0837,
+            "TopMargin": 109.0584,
+            "BottomMargin": -131.0584,
+            "Tag": 29952,
+            "ActionTag": -1617840960,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_21",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -163.0979,
+              "Y": -141.1894
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -191.3188,
+            "RightMargin": 148.3188,
+            "TopMargin": 100.6412,
+            "BottomMargin": -122.6412,
+            "Tag": 29953,
+            "ActionTag": -135812962,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_22",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -179.9323,
+              "Y": -132.3714
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -208.1532,
+            "RightMargin": 165.1532,
+            "TopMargin": 91.8232,
+            "BottomMargin": -113.8232,
+            "Tag": 29954,
+            "ActionTag": -663890531,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_23",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -191.5561,
+              "Y": -126.76
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -219.777,
+            "RightMargin": 176.777,
+            "TopMargin": 86.2118,
+            "BottomMargin": -108.2118,
+            "Tag": 29955,
+            "ActionTag": -774780132,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_24",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -170.7135,
+              "Y": -116.3387
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -198.9344,
+            "RightMargin": 155.9344,
+            "TopMargin": 75.7905,
+            "BottomMargin": -97.7905,
+            "Tag": 29956,
+            "ActionTag": 1899780138,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_25",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -149.47,
+              "Y": -105.9172
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -177.6909,
+            "RightMargin": 134.6909,
+            "TopMargin": 65.369,
+            "BottomMargin": -87.369,
+            "Tag": 29957,
+            "ActionTag": 635306564,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_26",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -132.2347,
+              "Y": -95.4957
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -160.4556,
+            "RightMargin": 117.4556,
+            "TopMargin": 54.9475,
+            "BottomMargin": -76.9475,
+            "Tag": 29958,
+            "ActionTag": -1140704044,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_27",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -110.9913,
+              "Y": -84.6735
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -139.2122,
+            "RightMargin": 96.2122,
+            "TopMargin": 44.1253,
+            "BottomMargin": -66.1253,
+            "Tag": 29959,
+            "ActionTag": 844897425,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_28",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -90.5494,
+              "Y": -75.0538
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -118.7703,
+            "RightMargin": 75.7703,
+            "TopMargin": 34.5056,
+            "BottomMargin": -56.5056,
+            "Tag": 29960,
+            "ActionTag": -104274903,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_29",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -72.9133,
+              "Y": -65.434
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -101.1342,
+            "RightMargin": 58.1342,
+            "TopMargin": 24.8858,
+            "BottomMargin": -46.8858,
+            "Tag": 29961,
+            "ActionTag": -830201475,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_30",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -52.8722,
+              "Y": -54.6118
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -81.0931,
+            "RightMargin": 38.0931,
+            "TopMargin": 14.0636,
+            "BottomMargin": -36.0636,
+            "Tag": 29962,
+            "ActionTag": -884072636,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_31",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -48.864,
+              "Y": -58.62
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -77.0849,
+            "RightMargin": 34.0849,
+            "TopMargin": 18.0718,
+            "BottomMargin": -40.0718,
+            "Tag": 29963,
+            "ActionTag": 1903037515,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_32",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -32.9979,
+              "Y": -43.385
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -61.2188,
+            "RightMargin": 18.2188,
+            "TopMargin": 2.8368,
+            "BottomMargin": -24.8368,
+            "Tag": 29964,
+            "ActionTag": -520250757,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_33",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": -13.7029,
+              "Y": -32.8272
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -41.9238,
+            "RightMargin": -1.0762,
+            "TopMargin": -7.721,
+            "BottomMargin": -14.279,
+            "Tag": 29965,
+            "ActionTag": -487175797,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_34",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 5.2281,
+              "Y": -22.2694
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -22.9928,
+            "RightMargin": -20.0072,
+            "TopMargin": -18.2788,
+            "BottomMargin": -3.7212,
+            "Tag": 29966,
+            "ActionTag": -1911234696,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_35",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6563,
+              "ScaleY": -0.8431
+            },
+            "Position": {
+              "X": 7.7764,
+              "Y": -21.5414
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -20.4445,
+            "RightMargin": -22.5555,
+            "TopMargin": -19.0068,
+            "BottomMargin": -2.9932,
+            "Tag": 29967,
+            "ActionTag": -525799673,
+            "Size": {
+              "X": 43.0,
+              "Y": 22.0
+            },
+            "Name": "fhu_03_3_36",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 20.106,
+              "Y": 27.189
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -2.894,
+            "RightMargin": -43.106,
+            "TopMargin": -36.189,
+            "BottomMargin": 18.189,
+            "Tag": 31957,
+            "ActionTag": 1234280194,
+            "Size": {
+              "X": 46.0,
+              "Y": 18.0
+            },
+            "Name": "fhu_01_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_05.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 45.1448,
+              "Y": 14.6062
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 35.1448,
+            "RightMargin": -55.1448,
+            "TopMargin": -26.6062,
+            "BottomMargin": 2.6062,
+            "Tag": 31958,
+            "ActionTag": -1119043066,
+            "Size": {
+              "X": 20.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_05_5_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_05.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 60.4354,
+              "Y": 6.9603
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 50.4354,
+            "RightMargin": -70.4354,
+            "TopMargin": -18.9603,
+            "BottomMargin": -5.0397,
+            "Tag": 31959,
+            "ActionTag": 135255659,
+            "Size": {
+              "X": 20.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_05_5_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_05.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 77.9104,
+              "Y": -1.7777
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 67.9104,
+            "RightMargin": -87.9104,
+            "TopMargin": -10.2223,
+            "BottomMargin": -13.7777,
+            "Tag": 31960,
+            "ActionTag": -2032357025,
+            "Size": {
+              "X": 20.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_05_5_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_05.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.1553,
+              "ScaleY": 0.3769
+            },
+            "Position": {
+              "X": 108.8547,
+              "Y": -13.4707
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 85.7487,
+            "RightMargin": -105.7487,
+            "TopMargin": -1.4837,
+            "BottomMargin": -22.5163,
+            "Tag": 31961,
+            "ActionTag": -1696883078,
+            "Size": {
+              "X": 20.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_05_5_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -9.5931,
+              "Y": 15.6373
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -19.0931,
+            "RightMargin": 0.0931,
+            "TopMargin": -27.6373,
+            "BottomMargin": 3.6373,
+            "Tag": 31963,
+            "ActionTag": -330981648,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -26.172,
+              "Y": 7.4576
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -35.672,
+            "RightMargin": 16.672,
+            "TopMargin": -19.4576,
+            "BottomMargin": -4.5424,
+            "Tag": 31964,
+            "ActionTag": -1328131038,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -42.1001,
+              "Y": -0.9159
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": -0.2516,
+            "RotationSkewX": -0.2516,
+            "RotationSkewY": -0.2516,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -51.6001,
+            "RightMargin": 32.6001,
+            "TopMargin": -11.0841,
+            "BottomMargin": -12.9159,
+            "Tag": 31965,
+            "ActionTag": 1653814346,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -56.5721,
+              "Y": -8.5612
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -66.0721,
+            "RightMargin": 47.0721,
+            "TopMargin": -3.4388,
+            "BottomMargin": -20.5612,
+            "Tag": 31966,
+            "ActionTag": 855042672,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -71.1358,
+              "Y": -15.5706
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -80.6358,
+            "RightMargin": 61.6358,
+            "TopMargin": 3.5706,
+            "BottomMargin": -27.5706,
+            "Tag": 31967,
+            "ActionTag": 285696985,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.4505,
+              "ScaleY": 0.2916
+            },
+            "Position": {
+              "X": -102.305,
+              "Y": -27.4161
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -93.7455,
+            "RightMargin": 74.7455,
+            "TopMargin": 10.4145,
+            "BottomMargin": -34.4145,
+            "Tag": 31968,
+            "ActionTag": -1911673078,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -99.4346,
+              "Y": -29.6438
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -108.9346,
+            "RightMargin": 89.9346,
+            "TopMargin": 17.6438,
+            "BottomMargin": -41.6438,
+            "Tag": 31969,
+            "ActionTag": 1784411709,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.3331
+            },
+            "Position": {
+              "X": -124.2032,
+              "Y": -41.5654
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -124.2032,
+            "RightMargin": 105.2032,
+            "TopMargin": 25.5598,
+            "BottomMargin": -49.5598,
+            "Tag": 31970,
+            "ActionTag": 1620794565,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -129.3423,
+              "Y": -45.1135
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -138.8423,
+            "RightMargin": 119.8423,
+            "TopMargin": 33.1135,
+            "BottomMargin": -57.1135,
+            "Tag": 31971,
+            "ActionTag": -410613473,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -144.998,
+              "Y": -53.4192
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -154.498,
+            "RightMargin": 135.498,
+            "TopMargin": 41.4192,
+            "BottomMargin": -65.4192,
+            "Tag": 31972,
+            "ActionTag": 1387510706,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0_8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -161.3822,
+              "Y": -62.0222
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -170.8822,
+            "RightMargin": 151.8822,
+            "TopMargin": 50.0222,
+            "BottomMargin": -74.0222,
+            "Tag": 31973,
+            "ActionTag": 323921400,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0_9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.1494,
+              "ScaleY": 0.3484
+            },
+            "Position": {
+              "X": -188.7153,
+              "Y": -73.0116
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -185.8767,
+            "RightMargin": 166.8767,
+            "TopMargin": 57.3732,
+            "BottomMargin": -81.3732,
+            "Tag": 31975,
+            "ActionTag": 712131209,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0_10",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -192.0169,
+              "Y": -77.4733
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -201.5169,
+            "RightMargin": 182.5169,
+            "TopMargin": 65.4733,
+            "BottomMargin": -89.4733,
+            "Tag": 31976,
+            "ActionTag": -1536868355,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0_11",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.2089,
+              "ScaleY": 0.1663
+            },
+            "Position": {
+              "X": -217.2298,
+              "Y": -90.9436
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -213.2607,
+            "RightMargin": 194.2607,
+            "TopMargin": 70.9348,
+            "BottomMargin": -94.9348,
+            "Tag": 31977,
+            "ActionTag": -5236800,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0_12",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_02.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 107.8604,
+              "Y": -15.2481
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 94.3604,
+            "RightMargin": -121.3604,
+            "TopMargin": 2.7481,
+            "BottomMargin": -27.7481,
+            "Tag": 34007,
+            "ActionTag": -1293554693,
+            "Size": {
+              "X": 27.0,
+              "Y": 25.0
+            },
+            "Name": "fhu_02_2_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/fhu_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.2089,
+              "ScaleY": 0.1663
+            },
+            "Position": {
+              "X": -223.8152,
+              "Y": -93.54
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -219.8461,
+            "RightMargin": 200.8461,
+            "TopMargin": 73.5312,
+            "BottomMargin": -97.5312,
+            "Tag": 34008,
+            "ActionTag": 427693283,
+            "Size": {
+              "X": 19.0,
+              "Y": 24.0
+            },
+            "Name": "fhu_04_4_0_12_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -120.7709,
+              "Y": -132.5003
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -130.7709,
+            "RightMargin": 110.7709,
+            "TopMargin": 125.5003,
+            "BottomMargin": -139.5003,
+            "Tag": 37929,
+            "ActionTag": 141861411,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer2_1861",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -170.9763,
+              "Y": -96.5492
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -180.9763,
+            "RightMargin": 160.9763,
+            "TopMargin": 89.5492,
+            "BottomMargin": -103.5492,
+            "Tag": 37930,
+            "ActionTag": -395281531,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer3_1862",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -86.6789,
+              "Y": -114.5246
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -96.6789,
+            "RightMargin": 76.6789,
+            "TopMargin": 107.5246,
+            "BottomMargin": -121.5246,
+            "Tag": 37931,
+            "ActionTag": -1880368508,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer4_1863",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/lan.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5561,
+              "ScaleY": 0.1557
+            },
+            "Position": {
+              "X": -232.7151,
+              "Y": -109.7152
+            },
+            "Scale": {
+              "ScaleX": 0.6901,
+              "ScaleY": 0.6901
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -250.5103,
+            "RightMargin": 218.5103,
+            "TopMargin": 84.3862,
+            "BottomMargin": -114.3862,
+            "Tag": 37938,
+            "ActionTag": 1848663605,
+            "Size": {
+              "X": 32.0,
+              "Y": 30.0
+            },
+            "Name": "lan_1870",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/lan.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5561,
+              "ScaleY": 0.1557
+            },
+            "Position": {
+              "X": -251.8535,
+              "Y": -119.5729
+            },
+            "Scale": {
+              "ScaleX": 0.6901,
+              "ScaleY": 0.6901
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -269.6487,
+            "RightMargin": 237.6487,
+            "TopMargin": 94.2439,
+            "BottomMargin": -124.2439,
+            "Tag": 37939,
+            "ActionTag": -1045951124,
+            "Size": {
+              "X": 32.0,
+              "Y": 30.0
+            },
+            "Name": "lan_1870_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/shui.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -138.7575,
+              "Y": -75.8484
+            },
+            "Scale": {
+              "ScaleX": 0.8177,
+              "ScaleY": 0.8177
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -174.7575,
+            "RightMargin": 102.7575,
+            "TopMargin": 53.3484,
+            "BottomMargin": -98.3484,
+            "Tag": 37943,
+            "ActionTag": 1793993750,
+            "Size": {
+              "X": 72.0,
+              "Y": 45.0
+            },
+            "Name": "shui_1875",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_010.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -142.8988,
+              "Y": -13.5519
+            },
+            "Scale": {
+              "ScaleX": 0.318,
+              "ScaleY": 0.318
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -195.3988,
+            "RightMargin": 90.3988,
+            "TopMargin": -51.4481,
+            "BottomMargin": -78.5519,
+            "Tag": 39929,
+            "ActionTag": 1362150797,
+            "Size": {
+              "X": 105.0,
+              "Y": 130.0
+            },
+            "Name": "za_010_3899_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_08.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 44.0228,
+              "Y": 41.8329
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 17.5228,
+            "RightMargin": -70.5228,
+            "TopMargin": -83.8329,
+            "BottomMargin": -0.1671,
+            "Tag": 39931,
+            "ActionTag": -1081970915,
+            "Size": {
+              "X": 53.0,
+              "Y": 84.0
+            },
+            "Name": "za_08_3902",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_08.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 90.5293,
+              "Y": 15.6862
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 64.0293,
+            "RightMargin": -117.0293,
+            "TopMargin": -57.6862,
+            "BottomMargin": -26.3138,
+            "Tag": 39932,
+            "ActionTag": -2061640881,
+            "Size": {
+              "X": 53.0,
+              "Y": 84.0
+            },
+            "Name": "za_08_3902_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_08.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 49.8114,
+              "Y": -7.481
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 23.3114,
+            "RightMargin": -76.3114,
+            "TopMargin": -34.519,
+            "BottomMargin": -49.481,
+            "Tag": 39933,
+            "ActionTag": -1074180463,
+            "Size": {
+              "X": 53.0,
+              "Y": 84.0
+            },
+            "Name": "za_08_3902_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/fz_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5117
+            },
+            "Position": {
+              "X": -94.9315,
+              "Y": -22.8852
+            },
+            "Scale": {
+              "ScaleX": 0.7438,
+              "ScaleY": 0.7438
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -125.6335,
+            "RightMargin": 65.6335,
+            "TopMargin": -17.1148,
+            "BottomMargin": -22.8852,
+            "Tag": 39936,
+            "ActionTag": 1166938534,
+            "Size": {
+              "X": 60.0,
+              "Y": 40.0
+            },
+            "Name": "fz_03_3906_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/fz_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5117
+            },
+            "Position": {
+              "X": -62.7944,
+              "Y": -6.3391
+            },
+            "Scale": {
+              "ScaleX": 0.7438,
+              "ScaleY": 0.7438
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -93.4964,
+            "RightMargin": 33.4964,
+            "TopMargin": -33.6609,
+            "BottomMargin": -6.3391,
+            "Tag": 39937,
+            "ActionTag": -422024034,
+            "Size": {
+              "X": 60.0,
+              "Y": 40.0
+            },
+            "Name": "fz_03_3906_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/fz_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5117
+            },
+            "Position": {
+              "X": -31.1497,
+              "Y": 8.7528
+            },
+            "Scale": {
+              "ScaleX": 0.7438,
+              "ScaleY": 0.7438
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -61.8517,
+            "RightMargin": 1.8517,
+            "TopMargin": -48.7528,
+            "BottomMargin": 8.7528,
+            "Tag": 41923,
+            "ActionTag": 2056206632,
+            "Size": {
+              "X": 60.0,
+              "Y": 40.0
+            },
+            "Name": "fz_03_3906_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_010.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -42.3665,
+              "Y": 36.4469
+            },
+            "Scale": {
+              "ScaleX": 0.318,
+              "ScaleY": 0.318
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -94.8665,
+            "RightMargin": -10.1335,
+            "TopMargin": -101.4469,
+            "BottomMargin": -28.5531,
+            "Tag": 39930,
+            "ActionTag": -150371313,
+            "Size": {
+              "X": 105.0,
+              "Y": 130.0
+            },
+            "Name": "za_010_3899_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_010.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -106.1228,
+              "Y": 4.6835
+            },
+            "Scale": {
+              "ScaleX": 0.318,
+              "ScaleY": 0.318
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -158.6228,
+            "RightMargin": 53.6228,
+            "TopMargin": -69.6835,
+            "BottomMargin": -60.3165,
+            "Tag": 41924,
+            "ActionTag": 754732870,
+            "Size": {
+              "X": 105.0,
+              "Y": 130.0
+            },
+            "Name": "za_010_3899_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_010.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -73.992,
+              "Y": 20.2618
+            },
+            "Scale": {
+              "ScaleX": 0.318,
+              "ScaleY": 0.318
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -126.492,
+            "RightMargin": 21.492,
+            "TopMargin": -85.2618,
+            "BottomMargin": -44.7382,
+            "Tag": 41925,
+            "ActionTag": 887743291,
+            "Size": {
+              "X": 105.0,
+              "Y": 130.0
+            },
+            "Name": "za_010_3899_0_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 114.1948,
+              "Y": -21.7674
+            },
+            "Scale": {
+              "ScaleX": 0.5998,
+              "ScaleY": 0.5906
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 82.1948,
+            "RightMargin": -146.1948,
+            "TopMargin": -35.2326,
+            "BottomMargin": -78.7674,
+            "Tag": 45910,
+            "ActionTag": -1611473107,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_10035",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 82.7986,
+              "Y": -36.14
+            },
+            "Scale": {
+              "ScaleX": 0.5998,
+              "ScaleY": 0.5906
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 50.7986,
+            "RightMargin": -114.7986,
+            "TopMargin": -20.86,
+            "BottomMargin": -93.14,
+            "Tag": 45911,
+            "ActionTag": -638844363,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_10035_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 8.0011,
+              "Y": -76.3061
+            },
+            "Scale": {
+              "ScaleX": 0.5998,
+              "ScaleY": 0.5906
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -23.9989,
+            "RightMargin": -40.0011,
+            "TopMargin": 19.3061,
+            "BottomMargin": -133.3061,
+            "Tag": 45912,
+            "ActionTag": 2038762426,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_10035_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 46.6814,
+              "Y": -53.26
+            },
+            "Scale": {
+              "ScaleX": 0.5998,
+              "ScaleY": 0.5906
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 14.6814,
+            "RightMargin": -78.6814,
+            "TopMargin": -3.74,
+            "BottomMargin": -110.26,
+            "Tag": 45913,
+            "ActionTag": 611538477,
+            "Size": {
+              "X": 64.0,
+              "Y": 114.0
+            },
+            "Name": "shu5_10035_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/feiji.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -21.0663,
+              "Y": -8.6171
+            },
+            "Scale": {
+              "ScaleX": 0.6049,
+              "ScaleY": 0.6049
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -52.5663,
+            "RightMargin": -10.4337,
+            "TopMargin": -28.8829,
+            "BottomMargin": -46.1171,
+            "Tag": 53943,
+            "ActionTag": 916555801,
+            "Size": {
+              "X": 63.0,
+              "Y": 75.0
+            },
+            "Name": "feiji_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "za/shui.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -49.2442,
+              "Y": -74.2978
+            },
+            "Scale": {
+              "ScaleX": 0.8177,
+              "ScaleY": 0.8177
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -85.2442,
+            "RightMargin": 13.2442,
+            "TopMargin": 51.7978,
+            "BottomMargin": -96.7978,
+            "Tag": 53944,
+            "ActionTag": 2073485299,
+            "Size": {
+              "X": 72.0,
+              "Y": 45.0
+            },
+            "Name": "shui_1875_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -189.5651,
+              "Y": -48.8273
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -203.5651,
+            "RightMargin": 175.5651,
+            "TopMargin": 20.8273,
+            "BottomMargin": -76.8273,
+            "Tag": 53945,
+            "ActionTag": 1446780046,
+            "Size": {
+              "X": 28.0,
+              "Y": 56.0
+            },
+            "Name": "za_01_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -221.6895,
+              "Y": -61.6994
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -235.6895,
+            "RightMargin": 207.6895,
+            "TopMargin": 33.6994,
+            "BottomMargin": -89.6994,
+            "Tag": 53946,
+            "ActionTag": -665892019,
+            "Size": {
+              "X": 28.0,
+              "Y": 56.0
+            },
+            "Name": "za_01_3_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -153.178,
+              "Y": -22.9765
+            },
+            "Scale": {
+              "ScaleX": 0.4109,
+              "ScaleY": 0.4109
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -185.678,
+            "RightMargin": 120.678,
+            "TopMargin": -47.5235,
+            "BottomMargin": -93.4765,
+            "Tag": 53947,
+            "ActionTag": 1526241488,
+            "Size": {
+              "X": 65.0,
+              "Y": 141.0
+            },
+            "Name": "za_03_5",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "jianzhu/za_01.png",
+        "jianzhu/feiji.png",
+        "jianzhu/za_010.png",
+        "za/shui.png",
+        "shu/huaer3.png",
+        "shu/huaer2.png",
+        "za/fhu_04.png",
+        "za/fhu_01.png",
+        "jianzhu/fz_03.png",
+        "jianzhu/za_03.png",
+        "shu/shu5.png",
+        "jianzhu/za_08.png",
+        "za/lan.png",
+        "shu/huaer4.png",
+        "za/fhu_02.png",
+        "za/fhu_05.png",
+        "za/fhu_03.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,764 @@
+{
+  "ID": "ac86efc3-5d10-4982-99fa-60648053f4b9",
+  "Version": "2.3.0.0",
+  "Name": "caoyuan",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 4276,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lu/caoyuan_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 103.0394,
+              "Y": 123.4445
+            },
+            "Scale": {
+              "ScaleX": 1.05,
+              "ScaleY": 1.2136
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5076,
+              "Y": 0.9077
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 29.0394,
+            "RightMargin": 25.9606,
+            "TopMargin": 4.5555,
+            "BottomMargin": 115.4445,
+            "Tag": 4280,
+            "ActionTag": -237904376,
+            "Size": {
+              "X": 148.0,
+              "Y": 16.0
+            },
+            "Name": "caoyuan_04_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lu/caoyuan_05.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 93.5759,
+              "Y": 80.2506
+            },
+            "Scale": {
+              "ScaleX": 7.9319,
+              "ScaleY": 4.4059
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.461,
+              "Y": 0.5901
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 85.5759,
+            "RightMargin": 101.4241,
+            "TopMargin": 47.7494,
+            "BottomMargin": 72.2506,
+            "Tag": 4281,
+            "ActionTag": -1336645393,
+            "Size": {
+              "X": 16.0,
+              "Y": 16.0
+            },
+            "Name": "caoyuan_05_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lu/caoyuan_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 100.1153,
+              "Y": 24.9341
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 0.0791,
+            "RotationSkewX": 0.0791,
+            "RotationSkewY": 0.079,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4932,
+              "Y": 0.1833
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 29.6153,
+            "RightMargin": 32.3847,
+            "TopMargin": 87.0659,
+            "BottomMargin": 0.9341,
+            "Tag": 4277,
+            "ActionTag": -1976227435,
+            "Size": {
+              "X": 141.0,
+              "Y": 48.0
+            },
+            "Name": "caoyuan_01_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lu/caoyuan_02.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 15.5338,
+              "Y": 67.99
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0765,
+              "Y": 0.4999
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1.0338,
+            "RightMargin": 172.9662,
+            "TopMargin": 15.51,
+            "BottomMargin": 15.49,
+            "Tag": 4278,
+            "ActionTag": -145722361,
+            "Size": {
+              "X": 29.0,
+              "Y": 105.0
+            },
+            "Name": "caoyuan_02_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lu/caoyuan_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 184.3417,
+              "Y": 68.6115
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9081,
+              "Y": 0.5045
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 169.8417,
+            "RightMargin": 4.1583,
+            "TopMargin": 16.3885,
+            "BottomMargin": 17.6115,
+            "Tag": 4279,
+            "ActionTag": -1999337010,
+            "Size": {
+              "X": 29.0,
+              "Y": 102.0
+            },
+            "Name": "caoyuan_03_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lu/caoyuan_05.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 106.423,
+              "Y": 81.0715
+            },
+            "Scale": {
+              "ScaleX": 7.9319,
+              "ScaleY": 4.4059
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5243,
+              "Y": 0.5961
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 98.423,
+            "RightMargin": 88.577,
+            "TopMargin": 46.9285,
+            "BottomMargin": 73.0715,
+            "Tag": 4282,
+            "ActionTag": -2099736979,
+            "Size": {
+              "X": 16.0,
+              "Y": 16.0
+            },
+            "Name": "caoyuan_05_5_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "beijing1/shan.json",
+              "Plist": ""
+            },
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 31.1013,
+              "Y": 28.1394
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.1532,
+              "Y": 0.2069
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 31.1013,
+            "RightMargin": 25.8987,
+            "TopMargin": -40.1394,
+            "BottomMargin": 28.1394,
+            "Tag": 5225,
+            "ActionTag": 516357200,
+            "Size": {
+              "X": 146.0,
+              "Y": 148.0
+            },
+            "Name": "ProjectNode_1",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jianzhu/za_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 82.4433,
+              "Y": 95.7747
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4061,
+              "Y": 0.7042
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 68.4433,
+            "RightMargin": 106.5567,
+            "TopMargin": 12.2253,
+            "BottomMargin": 67.7747,
+            "Tag": 5236,
+            "ActionTag": -448908278,
+            "Size": {
+              "X": 28.0,
+              "Y": 56.0
+            },
+            "Name": "za_01_89",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6123,
+              "ScaleY": 0.6892
+            },
+            "Position": {
+              "X": 173.278,
+              "Y": 75.5314
+            },
+            "Scale": {
+              "ScaleX": 0.4823,
+              "ScaleY": 0.4684
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8536,
+              "Y": 0.5554
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 123.0676,
+            "RightMargin": -2.0676,
+            "TopMargin": 36.2249,
+            "BottomMargin": 21.7751,
+            "Tag": 5237,
+            "ActionTag": -150341757,
+            "Size": {
+              "X": 82.0,
+              "Y": 78.0
+            },
+            "Name": "huaer1_90",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 47.886,
+              "Y": 51.8354
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2359,
+              "Y": 0.3811
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 37.886,
+            "RightMargin": 145.114,
+            "TopMargin": 77.1646,
+            "BottomMargin": 44.8354,
+            "Tag": 5239,
+            "ActionTag": -1897420561,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer3_92",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 25.6708,
+              "Y": 64.1771
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1265,
+              "Y": 0.4719
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 15.6708,
+            "RightMargin": 167.3292,
+            "TopMargin": 64.8229,
+            "BottomMargin": 57.1771,
+            "Tag": 5240,
+            "ActionTag": 767682045,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer2_93",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 69.6075,
+              "Y": 41.4683
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3429,
+              "Y": 0.3049
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 59.6075,
+            "RightMargin": 123.3925,
+            "TopMargin": 87.5317,
+            "BottomMargin": 34.4683,
+            "Tag": 5241,
+            "ActionTag": -930720063,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer4_94",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 90.8352,
+              "Y": 65.1645
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4475,
+              "Y": 0.4792
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 79.3352,
+            "RightMargin": 100.6648,
+            "TopMargin": 56.3355,
+            "BottomMargin": 50.6645,
+            "Tag": 5242,
+            "ActionTag": -60863634,
+            "Size": {
+              "X": 23.0,
+              "Y": 29.0
+            },
+            "Name": "huaer5_95",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.3398,
+              "ScaleY": 0.3734
+            },
+            "Position": {
+              "X": 23.6961,
+              "Y": 75.5313
+            },
+            "Scale": {
+              "ScaleX": 0.8025,
+              "ScaleY": 0.7884
+            },
+            "Rotation": 0.9609,
+            "RotationSkewX": 0.9609,
+            "RotationSkewY": 0.9609,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1167,
+              "Y": 0.5554
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 16.9009,
+            "RightMargin": 166.0991,
+            "TopMargin": 51.6958,
+            "BottomMargin": 70.3042,
+            "Tag": 5243,
+            "ActionTag": -1858541624,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer3_92_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/huaer3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 151.0652,
+              "Y": 52.8227
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7442,
+              "Y": 0.3884
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 141.0652,
+            "RightMargin": 41.9348,
+            "TopMargin": 76.1773,
+            "BottomMargin": 45.8227,
+            "Tag": 5244,
+            "ActionTag": -1697202819,
+            "Size": {
+              "X": 20.0,
+              "Y": 14.0
+            },
+            "Name": "huaer3_92_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shu/shu6.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 20.735,
+              "Y": 99.7226
+            },
+            "Scale": {
+              "ScaleX": 0.3872,
+              "ScaleY": 0.4553
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1021,
+              "Y": 0.7333
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -8.265,
+            "RightMargin": 153.265,
+            "TopMargin": 7.2774,
+            "BottomMargin": 70.7226,
+            "Tag": 5245,
+            "ActionTag": -1915389453,
+            "Size": {
+              "X": 58.0,
+              "Y": 58.0
+            },
+            "Name": "shu6_98",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 203.0,
+          "Y": 136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "shu/shu6.png",
+        "shu/huaer2.png",
+        "shu/huaer3.png",
+        "lu/caoyuan_03.png",
+        "lu/caoyuan_01.png",
+        "lu/caoyuan_04.png",
+        "shu/huaer5.png",
+        "shu/huaer4.png",
+        "shu/huaer1.png",
+        "jianzhu/za_01.png",
+        "beijing1/shan.json",
+        "lu/caoyuan_02.png",
+        "lu/caoyuan_05.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}
